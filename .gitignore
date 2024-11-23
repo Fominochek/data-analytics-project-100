@@ -1,0 +1,19 @@
+# IDE
+.idea
+
+# Environments
+# .env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PEP 582
+__pypackages__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.cla
