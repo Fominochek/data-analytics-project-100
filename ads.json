@@ -6,7 +6,7 @@
         "registrations":61,
         "utm_campaign":"advanced_algorithms_series",
         "cost":212.0,
-        "conversion":81.33
+        "conversion":81.0
     },
     {
         "date_group":"2023-03-01T00:00:00.000",
@@ -15,7 +15,7 @@
         "registrations":18,
         "utm_campaign":"advanced_algorithms_series",
         "cost":212.0,
-        "conversion":81.82
+        "conversion":82.0
     },
     {
         "date_group":"2023-03-01T00:00:00.000",
@@ -24,7 +24,7 @@
         "registrations":8,
         "utm_campaign":"advanced_algorithms_series",
         "cost":212.0,
-        "conversion":2.87
+        "conversion":3.0
     },
     {
         "date_group":"2023-03-02T00:00:00.000",
@@ -33,7 +33,7 @@
         "registrations":59,
         "utm_campaign":"advanced_algorithms_series",
         "cost":252.0,
-        "conversion":88.06
+        "conversion":88.0
     },
     {
         "date_group":"2023-03-02T00:00:00.000",
@@ -42,7 +42,7 @@
         "registrations":24,
         "utm_campaign":"advanced_algorithms_series",
         "cost":252.0,
-        "conversion":77.42
+        "conversion":77.0
     },
     {
         "date_group":"2023-03-02T00:00:00.000",
@@ -51,7 +51,7 @@
         "registrations":23,
         "utm_campaign":"advanced_algorithms_series",
         "cost":252.0,
-        "conversion":4.47
+        "conversion":4.0
     },
     {
         "date_group":"2023-03-03T00:00:00.000",
@@ -60,7 +60,7 @@
         "registrations":22,
         "utm_campaign":"advanced_algorithms_series",
         "cost":202.0,
-        "conversion":84.62
+        "conversion":85.0
     },
     {
         "date_group":"2023-03-03T00:00:00.000",
@@ -78,7 +78,7 @@
         "registrations":51,
         "utm_campaign":"advanced_algorithms_series",
         "cost":202.0,
-        "conversion":8.27
+        "conversion":8.0
     },
     {
         "date_group":"2023-03-04T00:00:00.000",
@@ -87,7 +87,7 @@
         "registrations":77,
         "utm_campaign":"advanced_algorithms_series",
         "cost":223.0,
-        "conversion":81.91
+        "conversion":82.0
     },
     {
         "date_group":"2023-03-04T00:00:00.000",
@@ -96,7 +96,7 @@
         "registrations":43,
         "utm_campaign":"advanced_algorithms_series",
         "cost":223.0,
-        "conversion":63.24
+        "conversion":63.0
     },
     {
         "date_group":"2023-03-04T00:00:00.000",
@@ -105,7 +105,7 @@
         "registrations":39,
         "utm_campaign":"advanced_algorithms_series",
         "cost":223.0,
-        "conversion":8.04
+        "conversion":8.0
     },
     {
         "date_group":"2023-03-05T00:00:00.000",
@@ -114,7 +114,7 @@
         "registrations":54,
         "utm_campaign":"advanced_algorithms_series",
         "cost":265.0,
-        "conversion":81.82
+        "conversion":82.0
     },
     {
         "date_group":"2023-03-05T00:00:00.000",
@@ -123,7 +123,7 @@
         "registrations":13,
         "utm_campaign":"advanced_algorithms_series",
         "cost":265.0,
-        "conversion":81.25
+        "conversion":81.0
     },
     {
         "date_group":"2023-03-05T00:00:00.000",
@@ -132,7 +132,7 @@
         "registrations":48,
         "utm_campaign":"advanced_algorithms_series",
         "cost":265.0,
-        "conversion":7.68
+        "conversion":8.0
     },
     {
         "date_group":"2023-03-06T00:00:00.000",
@@ -141,7 +141,7 @@
         "registrations":78,
         "utm_campaign":"advanced_algorithms_series",
         "cost":108.0,
-        "conversion":7.2
+        "conversion":7.0
     },
     {
         "date_group":"2023-03-06T00:00:00.000",
@@ -150,7 +150,7 @@
         "registrations":43,
         "utm_campaign":"advanced_algorithms_series",
         "cost":108.0,
-        "conversion":75.44
+        "conversion":75.0
     },
     {
         "date_group":"2023-03-06T00:00:00.000",
@@ -159,7 +159,7 @@
         "registrations":109,
         "utm_campaign":"advanced_algorithms_series",
         "cost":108.0,
-        "conversion":72.67
+        "conversion":73.0
     },
     {
         "date_group":"2023-03-07T00:00:00.000",
@@ -168,7 +168,7 @@
         "registrations":50,
         "utm_campaign":"advanced_algorithms_series",
         "cost":165.0,
-        "conversion":80.65
+        "conversion":81.0
     },
     {
         "date_group":"2023-03-07T00:00:00.000",
@@ -186,7 +186,7 @@
         "registrations":55,
         "utm_campaign":"advanced_algorithms_series",
         "cost":165.0,
-        "conversion":4.25
+        "conversion":4.0
     },
     {
         "date_group":"2023-03-08T00:00:00.000",
@@ -195,7 +195,7 @@
         "registrations":74,
         "utm_campaign":"advanced_algorithms_series",
         "cost":155.0,
-        "conversion":62.18
+        "conversion":62.0
     },
     {
         "date_group":"2023-03-08T00:00:00.000",
@@ -204,7 +204,7 @@
         "registrations":18,
         "utm_campaign":"advanced_algorithms_series",
         "cost":155.0,
-        "conversion":64.29
+        "conversion":64.0
     },
     {
         "date_group":"2023-03-08T00:00:00.000",
@@ -213,7 +213,7 @@
         "registrations":59,
         "utm_campaign":"advanced_algorithms_series",
         "cost":155.0,
-        "conversion":4.78
+        "conversion":5.0
     },
     {
         "date_group":"2023-03-09T00:00:00.000",
@@ -222,7 +222,7 @@
         "registrations":69,
         "utm_campaign":"advanced_algorithms_series",
         "cost":124.0,
-        "conversion":7.81
+        "conversion":8.0
     },
     {
         "date_group":"2023-03-09T00:00:00.000",
@@ -231,7 +231,7 @@
         "registrations":34,
         "utm_campaign":"advanced_algorithms_series",
         "cost":124.0,
-        "conversion":79.07
+        "conversion":79.0
     },
     {
         "date_group":"2023-03-09T00:00:00.000",
@@ -240,7 +240,7 @@
         "registrations":106,
         "utm_campaign":"advanced_algorithms_series",
         "cost":124.0,
-        "conversion":76.81
+        "conversion":77.0
     },
     {
         "date_group":"2023-03-10T00:00:00.000",
@@ -249,7 +249,7 @@
         "registrations":59,
         "utm_campaign":"advanced_algorithms_series",
         "cost":276.0,
-        "conversion":67.82
+        "conversion":68.0
     },
     {
         "date_group":"2023-03-10T00:00:00.000",
@@ -258,7 +258,7 @@
         "registrations":16,
         "utm_campaign":"advanced_algorithms_series",
         "cost":276.0,
-        "conversion":69.57
+        "conversion":70.0
     },
     {
         "date_group":"2023-03-10T00:00:00.000",
@@ -267,7 +267,7 @@
         "registrations":37,
         "utm_campaign":"advanced_algorithms_series",
         "cost":276.0,
-        "conversion":5.27
+        "conversion":5.0
     },
     {
         "date_group":"2023-03-11T00:00:00.000",
@@ -276,7 +276,7 @@
         "registrations":37,
         "utm_campaign":"advanced_algorithms_series",
         "cost":105.0,
-        "conversion":78.72
+        "conversion":79.0
     },
     {
         "date_group":"2023-03-11T00:00:00.000",
@@ -285,7 +285,7 @@
         "registrations":30,
         "utm_campaign":"advanced_algorithms_series",
         "cost":105.0,
-        "conversion":65.22
+        "conversion":65.0
     },
     {
         "date_group":"2023-03-11T00:00:00.000",
@@ -294,7 +294,7 @@
         "registrations":72,
         "utm_campaign":"advanced_algorithms_series",
         "cost":105.0,
-        "conversion":6.02
+        "conversion":6.0
     },
     {
         "date_group":"2023-03-12T00:00:00.000",
@@ -303,7 +303,7 @@
         "registrations":78,
         "utm_campaign":"advanced_algorithms_series",
         "cost":239.0,
-        "conversion":6.55
+        "conversion":7.0
     },
     {
         "date_group":"2023-03-12T00:00:00.000",
@@ -312,7 +312,7 @@
         "registrations":87,
         "utm_campaign":"advanced_algorithms_series",
         "cost":239.0,
-        "conversion":66.92
+        "conversion":67.0
     },
     {
         "date_group":"2023-03-12T00:00:00.000",
@@ -321,7 +321,7 @@
         "registrations":54,
         "utm_campaign":"advanced_algorithms_series",
         "cost":239.0,
-        "conversion":72.97
+        "conversion":73.0
     },
     {
         "date_group":"2023-03-13T00:00:00.000",
@@ -330,7 +330,7 @@
         "registrations":109,
         "utm_campaign":"advanced_algorithms_series",
         "cost":283.0,
-        "conversion":74.15
+        "conversion":74.0
     },
     {
         "date_group":"2023-03-13T00:00:00.000",
@@ -339,7 +339,7 @@
         "registrations":18,
         "utm_campaign":"advanced_algorithms_series",
         "cost":283.0,
-        "conversion":62.07
+        "conversion":62.0
     },
     {
         "date_group":"2023-03-13T00:00:00.000",
@@ -348,7 +348,7 @@
         "registrations":37,
         "utm_campaign":"advanced_algorithms_series",
         "cost":283.0,
-        "conversion":5.16
+        "conversion":5.0
     },
     {
         "date_group":"2023-03-14T00:00:00.000",
@@ -357,7 +357,7 @@
         "registrations":53,
         "utm_campaign":"advanced_algorithms_series",
         "cost":100.0,
-        "conversion":80.3
+        "conversion":80.0
     },
     {
         "date_group":"2023-03-14T00:00:00.000",
@@ -366,7 +366,7 @@
         "registrations":23,
         "utm_campaign":"advanced_algorithms_series",
         "cost":100.0,
-        "conversion":62.16
+        "conversion":62.0
     },
     {
         "date_group":"2023-03-14T00:00:00.000",
@@ -375,7 +375,7 @@
         "registrations":68,
         "utm_campaign":"advanced_algorithms_series",
         "cost":100.0,
-        "conversion":7.8
+        "conversion":8.0
     },
     {
         "date_group":"2023-03-15T00:00:00.000",
@@ -384,7 +384,7 @@
         "registrations":60,
         "utm_campaign":"advanced_algorithms_series",
         "cost":115.0,
-        "conversion":76.92
+        "conversion":77.0
     },
     {
         "date_group":"2023-03-15T00:00:00.000",
@@ -393,7 +393,7 @@
         "registrations":31,
         "utm_campaign":"advanced_algorithms_series",
         "cost":115.0,
-        "conversion":73.81
+        "conversion":74.0
     },
     {
         "date_group":"2023-03-15T00:00:00.000",
@@ -402,7 +402,7 @@
         "registrations":39,
         "utm_campaign":"advanced_algorithms_series",
         "cost":115.0,
-        "conversion":3.62
+        "conversion":4.0
     },
     {
         "date_group":"2023-03-16T00:00:00.000",
@@ -411,7 +411,7 @@
         "registrations":66,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":86.84
+        "conversion":87.0
     },
     {
         "date_group":"2023-03-16T00:00:00.000",
@@ -420,7 +420,7 @@
         "registrations":18,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.82
+        "conversion":82.0
     },
     {
         "date_group":"2023-03-16T00:00:00.000",
@@ -429,7 +429,7 @@
         "registrations":17,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":5.74
+        "conversion":6.0
     },
     {
         "date_group":"2023-03-17T00:00:00.000",
@@ -438,7 +438,7 @@
         "registrations":20,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.29
+        "conversion":4.0
     },
     {
         "date_group":"2023-03-17T00:00:00.000",
@@ -447,7 +447,7 @@
         "registrations":16,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":84.21
+        "conversion":84.0
     },
     {
         "date_group":"2023-03-17T00:00:00.000",
@@ -456,7 +456,7 @@
         "registrations":46,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":86.79
+        "conversion":87.0
     },
     {
         "date_group":"2023-03-18T00:00:00.000",
@@ -465,7 +465,7 @@
         "registrations":69,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":85.19
+        "conversion":85.0
     },
     {
         "date_group":"2023-03-18T00:00:00.000",
@@ -474,7 +474,7 @@
         "registrations":16,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":84.21
+        "conversion":84.0
     },
     {
         "date_group":"2023-03-18T00:00:00.000",
@@ -483,7 +483,7 @@
         "registrations":16,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.34
+        "conversion":4.0
     },
     {
         "date_group":"2023-03-19T00:00:00.000",
@@ -492,7 +492,7 @@
         "registrations":52,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":85.25
+        "conversion":85.0
     },
     {
         "date_group":"2023-03-19T00:00:00.000",
@@ -501,7 +501,7 @@
         "registrations":26,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":83.87
+        "conversion":84.0
     },
     {
         "date_group":"2023-03-19T00:00:00.000",
@@ -510,7 +510,7 @@
         "registrations":29,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.41
+        "conversion":4.0
     },
     {
         "date_group":"2023-03-20T00:00:00.000",
@@ -519,7 +519,7 @@
         "registrations":35,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.4
+        "conversion":81.0
     },
     {
         "date_group":"2023-03-20T00:00:00.000",
@@ -528,7 +528,7 @@
         "registrations":13,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":76.47
+        "conversion":76.0
     },
     {
         "date_group":"2023-03-20T00:00:00.000",
@@ -537,7 +537,7 @@
         "registrations":33,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":5.92
+        "conversion":6.0
     },
     {
         "date_group":"2023-03-21T00:00:00.000",
@@ -546,7 +546,7 @@
         "registrations":56,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":86.15
+        "conversion":86.0
     },
     {
         "date_group":"2023-03-21T00:00:00.000",
@@ -555,7 +555,7 @@
         "registrations":9,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.82
+        "conversion":82.0
     },
     {
         "date_group":"2023-03-21T00:00:00.000",
@@ -564,7 +564,7 @@
         "registrations":24,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.89
+        "conversion":5.0
     },
     {
         "date_group":"2023-03-22T00:00:00.000",
@@ -573,7 +573,7 @@
         "registrations":32,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":86.49
+        "conversion":86.0
     },
     {
         "date_group":"2023-03-22T00:00:00.000",
@@ -582,7 +582,7 @@
         "registrations":30,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":8.8
+        "conversion":9.0
     },
     {
         "date_group":"2023-03-22T00:00:00.000",
@@ -591,7 +591,7 @@
         "registrations":68,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":88.31
+        "conversion":88.0
     },
     {
         "date_group":"2023-03-23T00:00:00.000",
@@ -600,7 +600,7 @@
         "registrations":36,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":5.97
+        "conversion":6.0
     },
     {
         "date_group":"2023-03-23T00:00:00.000",
@@ -609,7 +609,7 @@
         "registrations":32,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.05
+        "conversion":82.0
     },
     {
         "date_group":"2023-03-23T00:00:00.000",
@@ -618,7 +618,7 @@
         "registrations":55,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-03-24T00:00:00.000",
@@ -627,7 +627,7 @@
         "registrations":41,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":87.23
+        "conversion":87.0
     },
     {
         "date_group":"2023-03-24T00:00:00.000",
@@ -636,7 +636,7 @@
         "registrations":13,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":76.47
+        "conversion":76.0
     },
     {
         "date_group":"2023-03-24T00:00:00.000",
@@ -645,7 +645,7 @@
         "registrations":15,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":3.25
+        "conversion":3.0
     },
     {
         "date_group":"2023-03-25T00:00:00.000",
@@ -663,7 +663,7 @@
         "registrations":17,
         "utm_campaign":"virtual_reality_workshop",
         "cost":293.0,
-        "conversion":80.95
+        "conversion":81.0
     },
     {
         "date_group":"2023-03-25T00:00:00.000",
@@ -672,7 +672,7 @@
         "registrations":27,
         "utm_campaign":"virtual_reality_workshop",
         "cost":293.0,
-        "conversion":5.97
+        "conversion":6.0
     },
     {
         "date_group":"2023-03-26T00:00:00.000",
@@ -681,7 +681,7 @@
         "registrations":58,
         "utm_campaign":"virtual_reality_workshop",
         "cost":298.0,
-        "conversion":82.86
+        "conversion":83.0
     },
     {
         "date_group":"2023-03-26T00:00:00.000",
@@ -690,7 +690,7 @@
         "registrations":11,
         "utm_campaign":"virtual_reality_workshop",
         "cost":298.0,
-        "conversion":78.57
+        "conversion":79.0
     },
     {
         "date_group":"2023-03-26T00:00:00.000",
@@ -699,7 +699,7 @@
         "registrations":19,
         "utm_campaign":"virtual_reality_workshop",
         "cost":298.0,
-        "conversion":4.03
+        "conversion":4.0
     },
     {
         "date_group":"2023-03-27T00:00:00.000",
@@ -708,7 +708,7 @@
         "registrations":67,
         "utm_campaign":"virtual_reality_workshop",
         "cost":121.0,
-        "conversion":83.75
+        "conversion":84.0
     },
     {
         "date_group":"2023-03-27T00:00:00.000",
@@ -726,7 +726,7 @@
         "registrations":44,
         "utm_campaign":"virtual_reality_workshop",
         "cost":121.0,
-        "conversion":9.13
+        "conversion":9.0
     },
     {
         "date_group":"2023-03-28T00:00:00.000",
@@ -735,7 +735,7 @@
         "registrations":34,
         "utm_campaign":"virtual_reality_workshop",
         "cost":203.0,
-        "conversion":73.91
+        "conversion":74.0
     },
     {
         "date_group":"2023-03-28T00:00:00.000",
@@ -744,7 +744,7 @@
         "registrations":23,
         "utm_campaign":"virtual_reality_workshop",
         "cost":203.0,
-        "conversion":3.57
+        "conversion":4.0
     },
     {
         "date_group":"2023-03-28T00:00:00.000",
@@ -753,7 +753,7 @@
         "registrations":48,
         "utm_campaign":"virtual_reality_workshop",
         "cost":203.0,
-        "conversion":81.36
+        "conversion":81.0
     },
     {
         "date_group":"2023-03-29T00:00:00.000",
@@ -762,7 +762,7 @@
         "registrations":54,
         "utm_campaign":"virtual_reality_workshop",
         "cost":246.0,
-        "conversion":73.97
+        "conversion":74.0
     },
     {
         "date_group":"2023-03-29T00:00:00.000",
@@ -771,7 +771,7 @@
         "registrations":22,
         "utm_campaign":"virtual_reality_workshop",
         "cost":246.0,
-        "conversion":91.67
+        "conversion":92.0
     },
     {
         "date_group":"2023-03-29T00:00:00.000",
@@ -780,7 +780,7 @@
         "registrations":13,
         "utm_campaign":"virtual_reality_workshop",
         "cost":246.0,
-        "conversion":3.3
+        "conversion":3.0
     },
     {
         "date_group":"2023-03-30T00:00:00.000",
@@ -789,7 +789,7 @@
         "registrations":30,
         "utm_campaign":"virtual_reality_workshop",
         "cost":215.0,
-        "conversion":78.95
+        "conversion":79.0
     },
     {
         "date_group":"2023-03-30T00:00:00.000",
@@ -798,7 +798,7 @@
         "registrations":35,
         "utm_campaign":"virtual_reality_workshop",
         "cost":215.0,
-        "conversion":79.55
+        "conversion":80.0
     },
     {
         "date_group":"2023-03-30T00:00:00.000",
@@ -807,7 +807,7 @@
         "registrations":38,
         "utm_campaign":"virtual_reality_workshop",
         "cost":215.0,
-        "conversion":10.3
+        "conversion":10.0
     },
     {
         "date_group":"2023-03-31T00:00:00.000",
@@ -816,7 +816,7 @@
         "registrations":23,
         "utm_campaign":"virtual_reality_workshop",
         "cost":121.0,
-        "conversion":85.19
+        "conversion":85.0
     },
     {
         "date_group":"2023-03-31T00:00:00.000",
@@ -825,7 +825,7 @@
         "registrations":66,
         "utm_campaign":"virtual_reality_workshop",
         "cost":121.0,
-        "conversion":78.57
+        "conversion":79.0
     },
     {
         "date_group":"2023-03-31T00:00:00.000",
@@ -834,7 +834,7 @@
         "registrations":26,
         "utm_campaign":"virtual_reality_workshop",
         "cost":121.0,
-        "conversion":3.56
+        "conversion":4.0
     },
     {
         "date_group":"2023-04-01T00:00:00.000",
@@ -843,7 +843,7 @@
         "registrations":57,
         "utm_campaign":"virtual_reality_workshop",
         "cost":166.0,
-        "conversion":77.03
+        "conversion":77.0
     },
     {
         "date_group":"2023-04-01T00:00:00.000",
@@ -852,7 +852,7 @@
         "registrations":53,
         "utm_campaign":"virtual_reality_workshop",
         "cost":166.0,
-        "conversion":77.94
+        "conversion":78.0
     },
     {
         "date_group":"2023-04-01T00:00:00.000",
@@ -861,7 +861,7 @@
         "registrations":49,
         "utm_campaign":"virtual_reality_workshop",
         "cost":166.0,
-        "conversion":6.41
+        "conversion":6.0
     },
     {
         "date_group":"2023-04-02T00:00:00.000",
@@ -879,7 +879,7 @@
         "registrations":59,
         "utm_campaign":"virtual_reality_workshop",
         "cost":215.0,
-        "conversion":7.27
+        "conversion":7.0
     },
     {
         "date_group":"2023-04-02T00:00:00.000",
@@ -888,7 +888,7 @@
         "registrations":58,
         "utm_campaign":"virtual_reality_workshop",
         "cost":215.0,
-        "conversion":84.06
+        "conversion":84.0
     },
     {
         "date_group":"2023-04-03T00:00:00.000",
@@ -897,7 +897,7 @@
         "registrations":27,
         "utm_campaign":"virtual_reality_workshop",
         "cost":268.0,
-        "conversion":69.23
+        "conversion":69.0
     },
     {
         "date_group":"2023-04-03T00:00:00.000",
@@ -906,7 +906,7 @@
         "registrations":46,
         "utm_campaign":"virtual_reality_workshop",
         "cost":268.0,
-        "conversion":6.22
+        "conversion":6.0
     },
     {
         "date_group":"2023-04-03T00:00:00.000",
@@ -915,7 +915,7 @@
         "registrations":83,
         "utm_campaign":"virtual_reality_workshop",
         "cost":268.0,
-        "conversion":86.46
+        "conversion":86.0
     },
     {
         "date_group":"2023-04-04T00:00:00.000",
@@ -924,7 +924,7 @@
         "registrations":72,
         "utm_campaign":"virtual_reality_workshop",
         "cost":252.0,
-        "conversion":84.71
+        "conversion":85.0
     },
     {
         "date_group":"2023-04-04T00:00:00.000",
@@ -933,7 +933,7 @@
         "registrations":27,
         "utm_campaign":"virtual_reality_workshop",
         "cost":252.0,
-        "conversion":81.82
+        "conversion":82.0
     },
     {
         "date_group":"2023-04-04T00:00:00.000",
@@ -942,7 +942,7 @@
         "registrations":54,
         "utm_campaign":"virtual_reality_workshop",
         "cost":252.0,
-        "conversion":6.77
+        "conversion":7.0
     },
     {
         "date_group":"2023-04-05T00:00:00.000",
@@ -960,7 +960,7 @@
         "registrations":24,
         "utm_campaign":"virtual_reality_workshop",
         "cost":287.0,
-        "conversion":85.71
+        "conversion":86.0
     },
     {
         "date_group":"2023-04-05T00:00:00.000",
@@ -969,7 +969,7 @@
         "registrations":34,
         "utm_campaign":"virtual_reality_workshop",
         "cost":287.0,
-        "conversion":5.45
+        "conversion":5.0
     },
     {
         "date_group":"2023-04-06T00:00:00.000",
@@ -978,7 +978,7 @@
         "registrations":12,
         "utm_campaign":"virtual_reality_workshop",
         "cost":178.0,
-        "conversion":3.29
+        "conversion":3.0
     },
     {
         "date_group":"2023-04-06T00:00:00.000",
@@ -996,7 +996,7 @@
         "registrations":93,
         "utm_campaign":"virtual_reality_workshop",
         "cost":178.0,
-        "conversion":86.11
+        "conversion":86.0
     },
     {
         "date_group":"2023-04-07T00:00:00.000",
@@ -1005,7 +1005,7 @@
         "registrations":90,
         "utm_campaign":"virtual_reality_workshop",
         "cost":118.0,
-        "conversion":81.08
+        "conversion":81.0
     },
     {
         "date_group":"2023-04-07T00:00:00.000",
@@ -1014,7 +1014,7 @@
         "registrations":46,
         "utm_campaign":"virtual_reality_workshop",
         "cost":118.0,
-        "conversion":82.14
+        "conversion":82.0
     },
     {
         "date_group":"2023-04-07T00:00:00.000",
@@ -1023,7 +1023,7 @@
         "registrations":66,
         "utm_campaign":"virtual_reality_workshop",
         "cost":118.0,
-        "conversion":7.11
+        "conversion":7.0
     },
     {
         "date_group":"2023-04-08T00:00:00.000",
@@ -1032,7 +1032,7 @@
         "registrations":82,
         "utm_campaign":"virtual_reality_workshop",
         "cost":260.0,
-        "conversion":76.64
+        "conversion":77.0
     },
     {
         "date_group":"2023-04-08T00:00:00.000",
@@ -1041,7 +1041,7 @@
         "registrations":25,
         "utm_campaign":"virtual_reality_workshop",
         "cost":260.0,
-        "conversion":96.15
+        "conversion":96.0
     },
     {
         "date_group":"2023-04-08T00:00:00.000",
@@ -1050,7 +1050,7 @@
         "registrations":67,
         "utm_campaign":"virtual_reality_workshop",
         "cost":260.0,
-        "conversion":7.65
+        "conversion":8.0
     },
     {
         "date_group":"2023-04-09T00:00:00.000",
@@ -1059,7 +1059,7 @@
         "registrations":30,
         "utm_campaign":"virtual_reality_workshop",
         "cost":224.0,
-        "conversion":5.47
+        "conversion":5.0
     },
     {
         "date_group":"2023-04-09T00:00:00.000",
@@ -1077,7 +1077,7 @@
         "registrations":68,
         "utm_campaign":"virtual_reality_workshop",
         "cost":224.0,
-        "conversion":83.95
+        "conversion":84.0
     },
     {
         "date_group":"2023-04-10T00:00:00.000",
@@ -1086,7 +1086,7 @@
         "registrations":109,
         "utm_campaign":"virtual_reality_workshop",
         "cost":216.0,
-        "conversion":82.58
+        "conversion":83.0
     },
     {
         "date_group":"2023-04-10T00:00:00.000",
@@ -1095,7 +1095,7 @@
         "registrations":29,
         "utm_campaign":"virtual_reality_workshop",
         "cost":216.0,
-        "conversion":78.38
+        "conversion":78.0
     },
     {
         "date_group":"2023-04-10T00:00:00.000",
@@ -1104,7 +1104,7 @@
         "registrations":27,
         "utm_campaign":"virtual_reality_workshop",
         "cost":216.0,
-        "conversion":5.47
+        "conversion":5.0
     },
     {
         "date_group":"2023-04-11T00:00:00.000",
@@ -1113,7 +1113,7 @@
         "registrations":21,
         "utm_campaign":"virtual_reality_workshop",
         "cost":263.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-04-11T00:00:00.000",
@@ -1122,7 +1122,7 @@
         "registrations":33,
         "utm_campaign":"virtual_reality_workshop",
         "cost":263.0,
-        "conversion":80.49
+        "conversion":80.0
     },
     {
         "date_group":"2023-04-11T00:00:00.000",
@@ -1131,7 +1131,7 @@
         "registrations":63,
         "utm_campaign":"virtual_reality_workshop",
         "cost":263.0,
-        "conversion":9.95
+        "conversion":10.0
     },
     {
         "date_group":"2023-04-12T00:00:00.000",
@@ -1140,7 +1140,7 @@
         "registrations":79,
         "utm_campaign":"virtual_reality_workshop",
         "cost":164.0,
-        "conversion":86.81
+        "conversion":87.0
     },
     {
         "date_group":"2023-04-12T00:00:00.000",
@@ -1149,7 +1149,7 @@
         "registrations":26,
         "utm_campaign":"virtual_reality_workshop",
         "cost":164.0,
-        "conversion":89.66
+        "conversion":90.0
     },
     {
         "date_group":"2023-04-12T00:00:00.000",
@@ -1158,7 +1158,7 @@
         "registrations":31,
         "utm_campaign":"virtual_reality_workshop",
         "cost":164.0,
-        "conversion":7.08
+        "conversion":7.0
     },
     {
         "date_group":"2023-04-13T00:00:00.000",
@@ -1167,7 +1167,7 @@
         "registrations":74,
         "utm_campaign":"virtual_reality_workshop",
         "cost":132.0,
-        "conversion":7.58
+        "conversion":8.0
     },
     {
         "date_group":"2023-04-13T00:00:00.000",
@@ -1176,7 +1176,7 @@
         "registrations":71,
         "utm_campaign":"virtual_reality_workshop",
         "cost":132.0,
-        "conversion":84.52
+        "conversion":85.0
     },
     {
         "date_group":"2023-04-13T00:00:00.000",
@@ -1185,7 +1185,7 @@
         "registrations":32,
         "utm_campaign":"virtual_reality_workshop",
         "cost":132.0,
-        "conversion":82.05
+        "conversion":82.0
     },
     {
         "date_group":"2023-04-14T00:00:00.000",
@@ -1194,7 +1194,7 @@
         "registrations":37,
         "utm_campaign":"virtual_reality_workshop",
         "cost":245.0,
-        "conversion":84.09
+        "conversion":84.0
     },
     {
         "date_group":"2023-04-14T00:00:00.000",
@@ -1203,7 +1203,7 @@
         "registrations":28,
         "utm_campaign":"virtual_reality_workshop",
         "cost":245.0,
-        "conversion":6.68
+        "conversion":7.0
     },
     {
         "date_group":"2023-04-14T00:00:00.000",
@@ -1212,7 +1212,7 @@
         "registrations":54,
         "utm_campaign":"virtual_reality_workshop",
         "cost":245.0,
-        "conversion":66.67
+        "conversion":67.0
     },
     {
         "date_group":"2023-04-15T00:00:00.000",
@@ -1221,7 +1221,7 @@
         "registrations":11,
         "utm_campaign":"virtual_reality_workshop",
         "cost":278.0,
-        "conversion":2.86
+        "conversion":3.0
     },
     {
         "date_group":"2023-04-15T00:00:00.000",
@@ -1230,7 +1230,7 @@
         "registrations":15,
         "utm_campaign":"virtual_reality_workshop",
         "cost":278.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-04-15T00:00:00.000",
@@ -1239,7 +1239,7 @@
         "registrations":35,
         "utm_campaign":"virtual_reality_workshop",
         "cost":278.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-04-16T00:00:00.000",
@@ -1248,7 +1248,7 @@
         "registrations":85,
         "utm_campaign":"virtual_reality_workshop",
         "cost":251.0,
-        "conversion":80.19
+        "conversion":80.0
     },
     {
         "date_group":"2023-04-16T00:00:00.000",
@@ -1266,7 +1266,7 @@
         "registrations":73,
         "utm_campaign":"virtual_reality_workshop",
         "cost":251.0,
-        "conversion":9.14
+        "conversion":9.0
     },
     {
         "date_group":"2023-04-17T00:00:00.000",
@@ -1275,7 +1275,7 @@
         "registrations":62,
         "utm_campaign":"virtual_reality_workshop",
         "cost":166.0,
-        "conversion":66.67
+        "conversion":67.0
     },
     {
         "date_group":"2023-04-17T00:00:00.000",
@@ -1284,7 +1284,7 @@
         "registrations":35,
         "utm_campaign":"virtual_reality_workshop",
         "cost":166.0,
-        "conversion":87.5
+        "conversion":88.0
     },
     {
         "date_group":"2023-04-17T00:00:00.000",
@@ -1293,7 +1293,7 @@
         "registrations":15,
         "utm_campaign":"virtual_reality_workshop",
         "cost":166.0,
-        "conversion":3.75
+        "conversion":4.0
     },
     {
         "date_group":"2023-04-18T00:00:00.000",
@@ -1302,7 +1302,7 @@
         "registrations":55,
         "utm_campaign":"virtual_reality_workshop",
         "cost":289.0,
-        "conversion":82.09
+        "conversion":82.0
     },
     {
         "date_group":"2023-04-18T00:00:00.000",
@@ -1311,7 +1311,7 @@
         "registrations":23,
         "utm_campaign":"virtual_reality_workshop",
         "cost":289.0,
-        "conversion":79.31
+        "conversion":79.0
     },
     {
         "date_group":"2023-04-18T00:00:00.000",
@@ -1320,7 +1320,7 @@
         "registrations":60,
         "utm_campaign":"virtual_reality_workshop",
         "cost":289.0,
-        "conversion":8.38
+        "conversion":8.0
     },
     {
         "date_group":"2023-04-19T00:00:00.000",
@@ -1329,7 +1329,7 @@
         "registrations":79,
         "utm_campaign":"virtual_reality_workshop",
         "cost":167.0,
-        "conversion":75.24
+        "conversion":75.0
     },
     {
         "date_group":"2023-04-19T00:00:00.000",
@@ -1338,7 +1338,7 @@
         "registrations":26,
         "utm_campaign":"virtual_reality_workshop",
         "cost":167.0,
-        "conversion":92.86
+        "conversion":93.0
     },
     {
         "date_group":"2023-04-19T00:00:00.000",
@@ -1347,7 +1347,7 @@
         "registrations":47,
         "utm_campaign":"virtual_reality_workshop",
         "cost":167.0,
-        "conversion":7.09
+        "conversion":7.0
     },
     {
         "date_group":"2023-04-20T00:00:00.000",
@@ -1356,7 +1356,7 @@
         "registrations":37,
         "utm_campaign":"virtual_reality_workshop",
         "cost":177.0,
-        "conversion":88.1
+        "conversion":88.0
     },
     {
         "date_group":"2023-04-20T00:00:00.000",
@@ -1365,7 +1365,7 @@
         "registrations":52,
         "utm_campaign":"virtual_reality_workshop",
         "cost":177.0,
-        "conversion":6.33
+        "conversion":6.0
     },
     {
         "date_group":"2023-04-20T00:00:00.000",
@@ -1374,7 +1374,7 @@
         "registrations":88,
         "utm_campaign":"virtual_reality_workshop",
         "cost":177.0,
-        "conversion":75.21
+        "conversion":75.0
     },
     {
         "date_group":"2023-04-21T00:00:00.000",
@@ -1383,7 +1383,7 @@
         "registrations":50,
         "utm_campaign":"virtual_reality_workshop",
         "cost":121.0,
-        "conversion":78.12
+        "conversion":78.0
     },
     {
         "date_group":"2023-04-21T00:00:00.000",
@@ -1392,7 +1392,7 @@
         "registrations":12,
         "utm_campaign":"virtual_reality_workshop",
         "cost":121.0,
-        "conversion":85.71
+        "conversion":86.0
     },
     {
         "date_group":"2023-04-21T00:00:00.000",
@@ -1401,7 +1401,7 @@
         "registrations":66,
         "utm_campaign":"virtual_reality_workshop",
         "cost":121.0,
-        "conversion":9.55
+        "conversion":10.0
     },
     {
         "date_group":"2023-04-22T00:00:00.000",
@@ -1410,7 +1410,7 @@
         "registrations":52,
         "utm_campaign":"virtual_reality_workshop",
         "cost":143.0,
-        "conversion":92.86
+        "conversion":93.0
     },
     {
         "date_group":"2023-04-22T00:00:00.000",
@@ -1419,7 +1419,7 @@
         "registrations":35,
         "utm_campaign":"virtual_reality_workshop",
         "cost":143.0,
-        "conversion":72.92
+        "conversion":73.0
     },
     {
         "date_group":"2023-04-22T00:00:00.000",
@@ -1428,7 +1428,7 @@
         "registrations":60,
         "utm_campaign":"virtual_reality_workshop",
         "cost":143.0,
-        "conversion":7.69
+        "conversion":8.0
     },
     {
         "date_group":"2023-04-23T00:00:00.000",
@@ -1437,7 +1437,7 @@
         "registrations":25,
         "utm_campaign":"virtual_reality_workshop",
         "cost":287.0,
-        "conversion":73.53
+        "conversion":74.0
     },
     {
         "date_group":"2023-04-23T00:00:00.000",
@@ -1446,7 +1446,7 @@
         "registrations":27,
         "utm_campaign":"virtual_reality_workshop",
         "cost":287.0,
-        "conversion":79.41
+        "conversion":79.0
     },
     {
         "date_group":"2023-04-23T00:00:00.000",
@@ -1455,7 +1455,7 @@
         "registrations":67,
         "utm_campaign":"virtual_reality_workshop",
         "cost":287.0,
-        "conversion":7.81
+        "conversion":8.0
     },
     {
         "date_group":"2023-04-24T00:00:00.000",
@@ -1464,7 +1464,7 @@
         "registrations":87,
         "utm_campaign":"virtual_reality_workshop",
         "cost":201.0,
-        "conversion":70.73
+        "conversion":71.0
     },
     {
         "date_group":"2023-04-24T00:00:00.000",
@@ -1482,7 +1482,7 @@
         "registrations":89,
         "utm_campaign":"virtual_reality_workshop",
         "cost":201.0,
-        "conversion":10.06
+        "conversion":10.0
     },
     {
         "date_group":"2023-04-25T00:00:00.000",
@@ -1500,7 +1500,7 @@
         "registrations":38,
         "utm_campaign":"virtual_reality_workshop",
         "cost":182.0,
-        "conversion":7.17
+        "conversion":7.0
     },
     {
         "date_group":"2023-04-25T00:00:00.000",
@@ -1509,7 +1509,7 @@
         "registrations":95,
         "utm_campaign":"virtual_reality_workshop",
         "cost":182.0,
-        "conversion":91.35
+        "conversion":91.0
     },
     {
         "date_group":"2023-04-26T00:00:00.000",
@@ -1518,7 +1518,7 @@
         "registrations":25,
         "utm_campaign":"virtual_reality_workshop",
         "cost":108.0,
-        "conversion":89.29
+        "conversion":89.0
     },
     {
         "date_group":"2023-04-26T00:00:00.000",
@@ -1527,7 +1527,7 @@
         "registrations":33,
         "utm_campaign":"virtual_reality_workshop",
         "cost":108.0,
-        "conversion":5.97
+        "conversion":6.0
     },
     {
         "date_group":"2023-04-26T00:00:00.000",
@@ -1536,7 +1536,7 @@
         "registrations":28,
         "utm_campaign":"virtual_reality_workshop",
         "cost":108.0,
-        "conversion":71.79
+        "conversion":72.0
     },
     {
         "date_group":"2023-04-27T00:00:00.000",
@@ -1545,7 +1545,7 @@
         "registrations":84,
         "utm_campaign":"virtual_reality_workshop",
         "cost":233.0,
-        "conversion":75.68
+        "conversion":76.0
     },
     {
         "date_group":"2023-04-27T00:00:00.000",
@@ -1554,7 +1554,7 @@
         "registrations":10,
         "utm_campaign":"virtual_reality_workshop",
         "cost":233.0,
-        "conversion":76.92
+        "conversion":77.0
     },
     {
         "date_group":"2023-04-27T00:00:00.000",
@@ -1563,7 +1563,7 @@
         "registrations":25,
         "utm_campaign":"virtual_reality_workshop",
         "cost":233.0,
-        "conversion":3.13
+        "conversion":3.0
     },
     {
         "date_group":"2023-04-28T00:00:00.000",
@@ -1572,7 +1572,7 @@
         "registrations":54,
         "utm_campaign":"virtual_reality_workshop",
         "cost":135.0,
-        "conversion":78.26
+        "conversion":78.0
     },
     {
         "date_group":"2023-04-28T00:00:00.000",
@@ -1581,7 +1581,7 @@
         "registrations":37,
         "utm_campaign":"virtual_reality_workshop",
         "cost":135.0,
-        "conversion":82.22
+        "conversion":82.0
     },
     {
         "date_group":"2023-04-28T00:00:00.000",
@@ -1590,7 +1590,7 @@
         "registrations":80,
         "utm_campaign":"virtual_reality_workshop",
         "cost":135.0,
-        "conversion":10.18
+        "conversion":10.0
     },
     {
         "date_group":"2023-04-29T00:00:00.000",
@@ -1599,7 +1599,7 @@
         "registrations":51,
         "utm_campaign":"virtual_reality_workshop",
         "cost":135.0,
-        "conversion":7.39
+        "conversion":7.0
     },
     {
         "date_group":"2023-04-29T00:00:00.000",
@@ -1608,7 +1608,7 @@
         "registrations":34,
         "utm_campaign":"virtual_reality_workshop",
         "cost":135.0,
-        "conversion":79.07
+        "conversion":79.0
     },
     {
         "date_group":"2023-04-29T00:00:00.000",
@@ -1617,7 +1617,7 @@
         "registrations":58,
         "utm_campaign":"virtual_reality_workshop",
         "cost":135.0,
-        "conversion":78.38
+        "conversion":78.0
     },
     {
         "date_group":"2023-04-30T00:00:00.000",
@@ -1626,7 +1626,7 @@
         "registrations":78,
         "utm_campaign":"virtual_reality_workshop",
         "cost":276.0,
-        "conversion":80.41
+        "conversion":80.0
     },
     {
         "date_group":"2023-04-30T00:00:00.000",
@@ -1635,7 +1635,7 @@
         "registrations":50,
         "utm_campaign":"virtual_reality_workshop",
         "cost":276.0,
-        "conversion":79.37
+        "conversion":79.0
     },
     {
         "date_group":"2023-04-30T00:00:00.000",
@@ -1644,7 +1644,7 @@
         "registrations":48,
         "utm_campaign":"virtual_reality_workshop",
         "cost":276.0,
-        "conversion":6.53
+        "conversion":7.0
     },
     {
         "date_group":"2023-05-01T00:00:00.000",
@@ -1653,7 +1653,7 @@
         "registrations":22,
         "utm_campaign":"virtual_reality_workshop",
         "cost":217.0,
-        "conversion":81.48
+        "conversion":81.0
     },
     {
         "date_group":"2023-05-01T00:00:00.000",
@@ -1662,7 +1662,7 @@
         "registrations":14,
         "utm_campaign":"virtual_reality_workshop",
         "cost":217.0,
-        "conversion":93.33
+        "conversion":93.0
     },
     {
         "date_group":"2023-05-01T00:00:00.000",
@@ -1671,7 +1671,7 @@
         "registrations":23,
         "utm_campaign":"virtual_reality_workshop",
         "cost":217.0,
-        "conversion":5.6
+        "conversion":6.0
     },
     {
         "date_group":"2023-05-02T00:00:00.000",
@@ -1680,7 +1680,7 @@
         "registrations":25,
         "utm_campaign":"virtual_reality_workshop",
         "cost":176.0,
-        "conversion":4.57
+        "conversion":5.0
     },
     {
         "date_group":"2023-05-02T00:00:00.000",
@@ -1689,7 +1689,7 @@
         "registrations":53,
         "utm_campaign":"virtual_reality_workshop",
         "cost":176.0,
-        "conversion":79.1
+        "conversion":79.0
     },
     {
         "date_group":"2023-05-02T00:00:00.000",
@@ -1698,7 +1698,7 @@
         "registrations":51,
         "utm_campaign":"virtual_reality_workshop",
         "cost":176.0,
-        "conversion":78.46
+        "conversion":78.0
     },
     {
         "date_group":"2023-05-03T00:00:00.000",
@@ -1707,7 +1707,7 @@
         "registrations":81,
         "utm_campaign":"virtual_reality_workshop",
         "cost":271.0,
-        "conversion":85.26
+        "conversion":85.0
     },
     {
         "date_group":"2023-05-03T00:00:00.000",
@@ -1716,7 +1716,7 @@
         "registrations":50,
         "utm_campaign":"virtual_reality_workshop",
         "cost":271.0,
-        "conversion":74.63
+        "conversion":75.0
     },
     {
         "date_group":"2023-05-03T00:00:00.000",
@@ -1725,7 +1725,7 @@
         "registrations":65,
         "utm_campaign":"virtual_reality_workshop",
         "cost":271.0,
-        "conversion":7.33
+        "conversion":7.0
     },
     {
         "date_group":"2023-05-04T00:00:00.000",
@@ -1743,7 +1743,7 @@
         "registrations":35,
         "utm_campaign":"virtual_reality_workshop",
         "cost":269.0,
-        "conversion":89.74
+        "conversion":90.0
     },
     {
         "date_group":"2023-05-04T00:00:00.000",
@@ -1752,7 +1752,7 @@
         "registrations":20,
         "utm_campaign":"virtual_reality_workshop",
         "cost":269.0,
-        "conversion":3.9
+        "conversion":4.0
     },
     {
         "date_group":"2023-05-05T00:00:00.000",
@@ -1761,7 +1761,7 @@
         "registrations":94,
         "utm_campaign":"virtual_reality_workshop",
         "cost":270.0,
-        "conversion":87.04
+        "conversion":87.0
     },
     {
         "date_group":"2023-05-05T00:00:00.000",
@@ -1770,7 +1770,7 @@
         "registrations":11,
         "utm_campaign":"virtual_reality_workshop",
         "cost":270.0,
-        "conversion":73.33
+        "conversion":73.0
     },
     {
         "date_group":"2023-05-05T00:00:00.000",
@@ -1779,7 +1779,7 @@
         "registrations":35,
         "utm_campaign":"virtual_reality_workshop",
         "cost":270.0,
-        "conversion":7.1
+        "conversion":7.0
     },
     {
         "date_group":"2023-05-06T00:00:00.000",
@@ -1788,7 +1788,7 @@
         "registrations":53,
         "utm_campaign":"virtual_reality_workshop",
         "cost":194.0,
-        "conversion":6.67
+        "conversion":7.0
     },
     {
         "date_group":"2023-05-06T00:00:00.000",
@@ -1797,7 +1797,7 @@
         "registrations":61,
         "utm_campaign":"virtual_reality_workshop",
         "cost":194.0,
-        "conversion":95.31
+        "conversion":95.0
     },
     {
         "date_group":"2023-05-06T00:00:00.000",
@@ -1806,7 +1806,7 @@
         "registrations":22,
         "utm_campaign":"virtual_reality_workshop",
         "cost":194.0,
-        "conversion":75.86
+        "conversion":76.0
     },
     {
         "date_group":"2023-05-07T00:00:00.000",
@@ -1824,7 +1824,7 @@
         "registrations":39,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":7.78
+        "conversion":8.0
     },
     {
         "date_group":"2023-05-07T00:00:00.000",
@@ -1833,7 +1833,7 @@
         "registrations":34,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":80.95
+        "conversion":81.0
     },
     {
         "date_group":"2023-05-08T00:00:00.000",
@@ -1842,7 +1842,7 @@
         "registrations":23,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.15
+        "conversion":4.0
     },
     {
         "date_group":"2023-05-08T00:00:00.000",
@@ -1851,7 +1851,7 @@
         "registrations":26,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":83.87
+        "conversion":84.0
     },
     {
         "date_group":"2023-05-08T00:00:00.000",
@@ -1869,7 +1869,7 @@
         "registrations":27,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.82
+        "conversion":82.0
     },
     {
         "date_group":"2023-05-09T00:00:00.000",
@@ -1878,7 +1878,7 @@
         "registrations":26,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":78.79
+        "conversion":79.0
     },
     {
         "date_group":"2023-05-09T00:00:00.000",
@@ -1887,7 +1887,7 @@
         "registrations":39,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":5.89
+        "conversion":6.0
     },
     {
         "date_group":"2023-05-10T00:00:00.000",
@@ -1896,7 +1896,7 @@
         "registrations":77,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.91
+        "conversion":82.0
     },
     {
         "date_group":"2023-05-10T00:00:00.000",
@@ -1914,7 +1914,7 @@
         "registrations":43,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":9.21
+        "conversion":9.0
     },
     {
         "date_group":"2023-05-11T00:00:00.000",
@@ -1923,7 +1923,7 @@
         "registrations":21,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-05-11T00:00:00.000",
@@ -1932,7 +1932,7 @@
         "registrations":18,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":85.71
+        "conversion":86.0
     },
     {
         "date_group":"2023-05-11T00:00:00.000",
@@ -1941,7 +1941,7 @@
         "registrations":29,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":9.8
+        "conversion":10.0
     },
     {
         "date_group":"2023-05-12T00:00:00.000",
@@ -1950,7 +1950,7 @@
         "registrations":79,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":86.81
+        "conversion":87.0
     },
     {
         "date_group":"2023-05-12T00:00:00.000",
@@ -1959,7 +1959,7 @@
         "registrations":14,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-05-12T00:00:00.000",
@@ -1968,7 +1968,7 @@
         "registrations":24,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":5.65
+        "conversion":6.0
     },
     {
         "date_group":"2023-05-13T00:00:00.000",
@@ -1986,7 +1986,7 @@
         "registrations":34,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":7.52
+        "conversion":8.0
     },
     {
         "date_group":"2023-05-13T00:00:00.000",
@@ -1995,7 +1995,7 @@
         "registrations":33,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":84.62
+        "conversion":85.0
     },
     {
         "date_group":"2023-05-14T00:00:00.000",
@@ -2004,7 +2004,7 @@
         "registrations":49,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.67
+        "conversion":82.0
     },
     {
         "date_group":"2023-05-14T00:00:00.000",
@@ -2013,7 +2013,7 @@
         "registrations":18,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.82
+        "conversion":82.0
     },
     {
         "date_group":"2023-05-14T00:00:00.000",
@@ -2022,7 +2022,7 @@
         "registrations":26,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.39
+        "conversion":4.0
     },
     {
         "date_group":"2023-05-15T00:00:00.000",
@@ -2031,7 +2031,7 @@
         "registrations":31,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":79.49
+        "conversion":79.0
     },
     {
         "date_group":"2023-05-15T00:00:00.000",
@@ -2040,7 +2040,7 @@
         "registrations":26,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.25
+        "conversion":81.0
     },
     {
         "date_group":"2023-05-15T00:00:00.000",
@@ -2049,7 +2049,7 @@
         "registrations":29,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":9.06
+        "conversion":9.0
     },
     {
         "date_group":"2023-05-16T00:00:00.000",
@@ -2058,7 +2058,7 @@
         "registrations":28,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":84.85
+        "conversion":85.0
     },
     {
         "date_group":"2023-05-16T00:00:00.000",
@@ -2067,7 +2067,7 @@
         "registrations":33,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":86.84
+        "conversion":87.0
     },
     {
         "date_group":"2023-05-16T00:00:00.000",
@@ -2085,7 +2085,7 @@
         "registrations":41,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":87.23
+        "conversion":87.0
     },
     {
         "date_group":"2023-05-17T00:00:00.000",
@@ -2094,7 +2094,7 @@
         "registrations":34,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.93
+        "conversion":83.0
     },
     {
         "date_group":"2023-05-17T00:00:00.000",
@@ -2103,7 +2103,7 @@
         "registrations":12,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.17
+        "conversion":4.0
     },
     {
         "date_group":"2023-05-18T00:00:00.000",
@@ -2121,7 +2121,7 @@
         "registrations":29,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":7.38
+        "conversion":7.0
     },
     {
         "date_group":"2023-05-18T00:00:00.000",
@@ -2130,7 +2130,7 @@
         "registrations":22,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":84.62
+        "conversion":85.0
     },
     {
         "date_group":"2023-05-19T00:00:00.000",
@@ -2139,7 +2139,7 @@
         "registrations":31,
         "utm_campaign":"ui_ux_design_drive",
         "cost":178.0,
-        "conversion":83.78
+        "conversion":84.0
     },
     {
         "date_group":"2023-05-19T00:00:00.000",
@@ -2148,7 +2148,7 @@
         "registrations":39,
         "utm_campaign":"ui_ux_design_drive",
         "cost":178.0,
-        "conversion":6.52
+        "conversion":7.0
     },
     {
         "date_group":"2023-05-19T00:00:00.000",
@@ -2157,7 +2157,7 @@
         "registrations":42,
         "utm_campaign":"ui_ux_design_drive",
         "cost":178.0,
-        "conversion":80.77
+        "conversion":81.0
     },
     {
         "date_group":"2023-05-20T00:00:00.000",
@@ -2166,7 +2166,7 @@
         "registrations":41,
         "utm_campaign":"ui_ux_design_drive",
         "cost":137.0,
-        "conversion":85.42
+        "conversion":85.0
     },
     {
         "date_group":"2023-05-20T00:00:00.000",
@@ -2175,7 +2175,7 @@
         "registrations":26,
         "utm_campaign":"ui_ux_design_drive",
         "cost":137.0,
-        "conversion":81.25
+        "conversion":81.0
     },
     {
         "date_group":"2023-05-20T00:00:00.000",
@@ -2184,7 +2184,7 @@
         "registrations":11,
         "utm_campaign":"ui_ux_design_drive",
         "cost":137.0,
-        "conversion":3.4
+        "conversion":3.0
     },
     {
         "date_group":"2023-05-21T00:00:00.000",
@@ -2202,7 +2202,7 @@
         "registrations":10,
         "utm_campaign":"ui_ux_design_drive",
         "cost":260.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-05-21T00:00:00.000",
@@ -2211,7 +2211,7 @@
         "registrations":35,
         "utm_campaign":"ui_ux_design_drive",
         "cost":260.0,
-        "conversion":7.88
+        "conversion":8.0
     },
     {
         "date_group":"2023-05-22T00:00:00.000",
@@ -2220,7 +2220,7 @@
         "registrations":58,
         "utm_campaign":"ui_ux_design_drive",
         "cost":144.0,
-        "conversion":7.69
+        "conversion":8.0
     },
     {
         "date_group":"2023-05-22T00:00:00.000",
@@ -2229,7 +2229,7 @@
         "registrations":22,
         "utm_campaign":"ui_ux_design_drive",
         "cost":144.0,
-        "conversion":78.57
+        "conversion":79.0
     },
     {
         "date_group":"2023-05-22T00:00:00.000",
@@ -2247,7 +2247,7 @@
         "registrations":64,
         "utm_campaign":"ui_ux_design_drive",
         "cost":245.0,
-        "conversion":77.11
+        "conversion":77.0
     },
     {
         "date_group":"2023-05-23T00:00:00.000",
@@ -2256,7 +2256,7 @@
         "registrations":17,
         "utm_campaign":"ui_ux_design_drive",
         "cost":245.0,
-        "conversion":70.83
+        "conversion":71.0
     },
     {
         "date_group":"2023-05-23T00:00:00.000",
@@ -2265,7 +2265,7 @@
         "registrations":40,
         "utm_campaign":"ui_ux_design_drive",
         "cost":245.0,
-        "conversion":8.32
+        "conversion":8.0
     },
     {
         "date_group":"2023-05-24T00:00:00.000",
@@ -2274,7 +2274,7 @@
         "registrations":49,
         "utm_campaign":"ui_ux_design_drive",
         "cost":265.0,
-        "conversion":80.33
+        "conversion":80.0
     },
     {
         "date_group":"2023-05-24T00:00:00.000",
@@ -2283,7 +2283,7 @@
         "registrations":27,
         "utm_campaign":"ui_ux_design_drive",
         "cost":265.0,
-        "conversion":67.5
+        "conversion":68.0
     },
     {
         "date_group":"2023-05-24T00:00:00.000",
@@ -2292,7 +2292,7 @@
         "registrations":51,
         "utm_campaign":"ui_ux_design_drive",
         "cost":265.0,
-        "conversion":6.51
+        "conversion":7.0
     },
     {
         "date_group":"2023-05-25T00:00:00.000",
@@ -2301,7 +2301,7 @@
         "registrations":25,
         "utm_campaign":"ui_ux_design_drive",
         "cost":242.0,
-        "conversion":6.16
+        "conversion":6.0
     },
     {
         "date_group":"2023-05-25T00:00:00.000",
@@ -2310,7 +2310,7 @@
         "registrations":14,
         "utm_campaign":"ui_ux_design_drive",
         "cost":242.0,
-        "conversion":73.68
+        "conversion":74.0
     },
     {
         "date_group":"2023-05-25T00:00:00.000",
@@ -2319,7 +2319,7 @@
         "registrations":48,
         "utm_campaign":"ui_ux_design_drive",
         "cost":242.0,
-        "conversion":73.85
+        "conversion":74.0
     },
     {
         "date_group":"2023-05-26T00:00:00.000",
@@ -2328,7 +2328,7 @@
         "registrations":86,
         "utm_campaign":"ui_ux_design_drive",
         "cost":298.0,
-        "conversion":76.11
+        "conversion":76.0
     },
     {
         "date_group":"2023-05-26T00:00:00.000",
@@ -2346,7 +2346,7 @@
         "registrations":25,
         "utm_campaign":"ui_ux_design_drive",
         "cost":298.0,
-        "conversion":6.33
+        "conversion":6.0
     },
     {
         "date_group":"2023-05-27T00:00:00.000",
@@ -2364,7 +2364,7 @@
         "registrations":13,
         "utm_campaign":"ui_ux_design_drive",
         "cost":245.0,
-        "conversion":76.47
+        "conversion":76.0
     },
     {
         "date_group":"2023-05-27T00:00:00.000",
@@ -2373,7 +2373,7 @@
         "registrations":16,
         "utm_campaign":"ui_ux_design_drive",
         "cost":245.0,
-        "conversion":3.73
+        "conversion":4.0
     },
     {
         "date_group":"2023-05-28T00:00:00.000",
@@ -2400,7 +2400,7 @@
         "registrations":52,
         "utm_campaign":"ui_ux_design_drive",
         "cost":287.0,
-        "conversion":8.47
+        "conversion":8.0
     },
     {
         "date_group":"2023-05-29T00:00:00.000",
@@ -2409,7 +2409,7 @@
         "registrations":30,
         "utm_campaign":"ui_ux_design_drive",
         "cost":184.0,
-        "conversion":8.55
+        "conversion":9.0
     },
     {
         "date_group":"2023-05-29T00:00:00.000",
@@ -2418,7 +2418,7 @@
         "registrations":34,
         "utm_campaign":"ui_ux_design_drive",
         "cost":184.0,
-        "conversion":79.07
+        "conversion":79.0
     },
     {
         "date_group":"2023-05-29T00:00:00.000",
@@ -2427,7 +2427,7 @@
         "registrations":15,
         "utm_campaign":"ui_ux_design_drive",
         "cost":184.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-05-30T00:00:00.000",
@@ -2436,7 +2436,7 @@
         "registrations":14,
         "utm_campaign":"ui_ux_design_drive",
         "cost":176.0,
-        "conversion":66.67
+        "conversion":67.0
     },
     {
         "date_group":"2023-05-30T00:00:00.000",
@@ -2445,7 +2445,7 @@
         "registrations":26,
         "utm_campaign":"ui_ux_design_drive",
         "cost":176.0,
-        "conversion":3.19
+        "conversion":3.0
     },
     {
         "date_group":"2023-05-30T00:00:00.000",
@@ -2454,7 +2454,7 @@
         "registrations":34,
         "utm_campaign":"ui_ux_design_drive",
         "cost":176.0,
-        "conversion":75.56
+        "conversion":76.0
     },
     {
         "date_group":"2023-05-31T00:00:00.000",
@@ -2472,7 +2472,7 @@
         "registrations":51,
         "utm_campaign":"ui_ux_design_drive",
         "cost":150.0,
-        "conversion":6.68
+        "conversion":7.0
     },
     {
         "date_group":"2023-05-31T00:00:00.000",
@@ -2481,7 +2481,7 @@
         "registrations":42,
         "utm_campaign":"ui_ux_design_drive",
         "cost":150.0,
-        "conversion":68.85
+        "conversion":69.0
     },
     {
         "date_group":"2023-06-01T00:00:00.000",
@@ -2490,7 +2490,7 @@
         "registrations":56,
         "utm_campaign":"ui_ux_design_drive",
         "cost":145.0,
-        "conversion":82.35
+        "conversion":82.0
     },
     {
         "date_group":"2023-06-01T00:00:00.000",
@@ -2499,7 +2499,7 @@
         "registrations":39,
         "utm_campaign":"ui_ux_design_drive",
         "cost":145.0,
-        "conversion":73.58
+        "conversion":74.0
     },
     {
         "date_group":"2023-06-01T00:00:00.000",
@@ -2508,7 +2508,7 @@
         "registrations":29,
         "utm_campaign":"ui_ux_design_drive",
         "cost":145.0,
-        "conversion":5.59
+        "conversion":6.0
     },
     {
         "date_group":"2023-06-02T00:00:00.000",
@@ -2517,7 +2517,7 @@
         "registrations":25,
         "utm_campaign":"ui_ux_design_drive",
         "cost":118.0,
-        "conversion":73.53
+        "conversion":74.0
     },
     {
         "date_group":"2023-06-02T00:00:00.000",
@@ -2526,7 +2526,7 @@
         "registrations":11,
         "utm_campaign":"ui_ux_design_drive",
         "cost":118.0,
-        "conversion":78.57
+        "conversion":79.0
     },
     {
         "date_group":"2023-06-02T00:00:00.000",
@@ -2535,7 +2535,7 @@
         "registrations":12,
         "utm_campaign":"ui_ux_design_drive",
         "cost":118.0,
-        "conversion":2.74
+        "conversion":3.0
     },
     {
         "date_group":"2023-06-03T00:00:00.000",
@@ -2544,7 +2544,7 @@
         "registrations":59,
         "utm_campaign":"ui_ux_design_drive",
         "cost":161.0,
-        "conversion":74.68
+        "conversion":75.0
     },
     {
         "date_group":"2023-06-03T00:00:00.000",
@@ -2553,7 +2553,7 @@
         "registrations":31,
         "utm_campaign":"ui_ux_design_drive",
         "cost":161.0,
-        "conversion":77.5
+        "conversion":78.0
     },
     {
         "date_group":"2023-06-03T00:00:00.000",
@@ -2562,7 +2562,7 @@
         "registrations":49,
         "utm_campaign":"ui_ux_design_drive",
         "cost":161.0,
-        "conversion":7.6
+        "conversion":8.0
     },
     {
         "date_group":"2023-06-04T00:00:00.000",
@@ -2571,7 +2571,7 @@
         "registrations":67,
         "utm_campaign":"ui_ux_design_drive",
         "cost":261.0,
-        "conversion":77.01
+        "conversion":77.0
     },
     {
         "date_group":"2023-06-04T00:00:00.000",
@@ -2580,7 +2580,7 @@
         "registrations":23,
         "utm_campaign":"ui_ux_design_drive",
         "cost":261.0,
-        "conversion":82.14
+        "conversion":82.0
     },
     {
         "date_group":"2023-06-04T00:00:00.000",
@@ -2589,7 +2589,7 @@
         "registrations":30,
         "utm_campaign":"ui_ux_design_drive",
         "cost":261.0,
-        "conversion":8.67
+        "conversion":9.0
     },
     {
         "date_group":"2023-06-05T00:00:00.000",
@@ -2598,7 +2598,7 @@
         "registrations":25,
         "utm_campaign":"ui_ux_design_drive",
         "cost":143.0,
-        "conversion":80.65
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-05T00:00:00.000",
@@ -2607,7 +2607,7 @@
         "registrations":55,
         "utm_campaign":"ui_ux_design_drive",
         "cost":143.0,
-        "conversion":6.26
+        "conversion":6.0
     },
     {
         "date_group":"2023-06-05T00:00:00.000",
@@ -2616,7 +2616,7 @@
         "registrations":34,
         "utm_campaign":"ui_ux_design_drive",
         "cost":143.0,
-        "conversion":77.27
+        "conversion":77.0
     },
     {
         "date_group":"2023-06-06T00:00:00.000",
@@ -2634,7 +2634,7 @@
         "registrations":22,
         "utm_campaign":"ui_ux_design_drive",
         "cost":141.0,
-        "conversion":91.67
+        "conversion":92.0
     },
     {
         "date_group":"2023-06-06T00:00:00.000",
@@ -2643,7 +2643,7 @@
         "registrations":45,
         "utm_campaign":"ui_ux_design_drive",
         "cost":141.0,
-        "conversion":7.46
+        "conversion":7.0
     },
     {
         "date_group":"2023-06-07T00:00:00.000",
@@ -2652,7 +2652,7 @@
         "registrations":58,
         "utm_campaign":"ui_ux_design_drive",
         "cost":118.0,
-        "conversion":80.56
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-07T00:00:00.000",
@@ -2661,7 +2661,7 @@
         "registrations":17,
         "utm_campaign":"ui_ux_design_drive",
         "cost":118.0,
-        "conversion":77.27
+        "conversion":77.0
     },
     {
         "date_group":"2023-06-07T00:00:00.000",
@@ -2670,7 +2670,7 @@
         "registrations":20,
         "utm_campaign":"ui_ux_design_drive",
         "cost":118.0,
-        "conversion":3.62
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-08T00:00:00.000",
@@ -2679,7 +2679,7 @@
         "registrations":13,
         "utm_campaign":"ui_ux_design_drive",
         "cost":145.0,
-        "conversion":81.25
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-08T00:00:00.000",
@@ -2688,7 +2688,7 @@
         "registrations":30,
         "utm_campaign":"ui_ux_design_drive",
         "cost":145.0,
-        "conversion":71.43
+        "conversion":71.0
     },
     {
         "date_group":"2023-06-08T00:00:00.000",
@@ -2697,7 +2697,7 @@
         "registrations":29,
         "utm_campaign":"ui_ux_design_drive",
         "cost":145.0,
-        "conversion":4.46
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-09T00:00:00.000",
@@ -2706,7 +2706,7 @@
         "registrations":62,
         "utm_campaign":"ui_ux_design_drive",
         "cost":166.0,
-        "conversion":78.48
+        "conversion":78.0
     },
     {
         "date_group":"2023-06-09T00:00:00.000",
@@ -2715,7 +2715,7 @@
         "registrations":14,
         "utm_campaign":"ui_ux_design_drive",
         "cost":166.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-06-09T00:00:00.000",
@@ -2724,7 +2724,7 @@
         "registrations":39,
         "utm_campaign":"ui_ux_design_drive",
         "cost":166.0,
-        "conversion":6.17
+        "conversion":6.0
     },
     {
         "date_group":"2023-06-10T00:00:00.000",
@@ -2733,7 +2733,7 @@
         "registrations":34,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":80.95
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-10T00:00:00.000",
@@ -2742,7 +2742,7 @@
         "registrations":33,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":7.69
+        "conversion":8.0
     },
     {
         "date_group":"2023-06-10T00:00:00.000",
@@ -2751,7 +2751,7 @@
         "registrations":58,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":80.56
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-11T00:00:00.000",
@@ -2760,7 +2760,7 @@
         "registrations":14,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-06-11T00:00:00.000",
@@ -2769,7 +2769,7 @@
         "registrations":16,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.44
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-11T00:00:00.000",
@@ -2778,7 +2778,7 @@
         "registrations":70,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.35
+        "conversion":82.0
     },
     {
         "date_group":"2023-06-12T00:00:00.000",
@@ -2787,7 +2787,7 @@
         "registrations":51,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":83.61
+        "conversion":84.0
     },
     {
         "date_group":"2023-06-12T00:00:00.000",
@@ -2796,7 +2796,7 @@
         "registrations":28,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.35
+        "conversion":82.0
     },
     {
         "date_group":"2023-06-12T00:00:00.000",
@@ -2805,7 +2805,7 @@
         "registrations":28,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":6.41
+        "conversion":6.0
     },
     {
         "date_group":"2023-06-13T00:00:00.000",
@@ -2814,7 +2814,7 @@
         "registrations":27,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":79.41
+        "conversion":79.0
     },
     {
         "date_group":"2023-06-13T00:00:00.000",
@@ -2823,7 +2823,7 @@
         "registrations":24,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":85.71
+        "conversion":86.0
     },
     {
         "date_group":"2023-06-13T00:00:00.000",
@@ -2832,7 +2832,7 @@
         "registrations":18,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":3.52
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-14T00:00:00.000",
@@ -2841,7 +2841,7 @@
         "registrations":15,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.32
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-14T00:00:00.000",
@@ -2850,7 +2850,7 @@
         "registrations":13,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.25
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-14T00:00:00.000",
@@ -2868,7 +2868,7 @@
         "registrations":34,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":80.95
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-15T00:00:00.000",
@@ -2886,7 +2886,7 @@
         "registrations":51,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":9.38
+        "conversion":9.0
     },
     {
         "date_group":"2023-06-16T00:00:00.000",
@@ -2904,7 +2904,7 @@
         "registrations":25,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":80.65
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-16T00:00:00.000",
@@ -2913,7 +2913,7 @@
         "registrations":21,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":5.37
+        "conversion":5.0
     },
     {
         "date_group":"2023-06-17T00:00:00.000",
@@ -2922,7 +2922,7 @@
         "registrations":18,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.37
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-17T00:00:00.000",
@@ -2931,7 +2931,7 @@
         "registrations":30,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-06-17T00:00:00.000",
@@ -2940,7 +2940,7 @@
         "registrations":47,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.03
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-18T00:00:00.000",
@@ -2949,7 +2949,7 @@
         "registrations":61,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.43
+        "conversion":82.0
     },
     {
         "date_group":"2023-06-18T00:00:00.000",
@@ -2958,7 +2958,7 @@
         "registrations":34,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":87.18
+        "conversion":87.0
     },
     {
         "date_group":"2023-06-18T00:00:00.000",
@@ -2967,7 +2967,7 @@
         "registrations":18,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":2.98
+        "conversion":3.0
     },
     {
         "date_group":"2023-06-19T00:00:00.000",
@@ -2976,7 +2976,7 @@
         "registrations":67,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":84.81
+        "conversion":85.0
     },
     {
         "date_group":"2023-06-19T00:00:00.000",
@@ -2985,7 +2985,7 @@
         "registrations":14,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":87.5
+        "conversion":88.0
     },
     {
         "date_group":"2023-06-19T00:00:00.000",
@@ -2994,7 +2994,7 @@
         "registrations":17,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.8
+        "conversion":5.0
     },
     {
         "date_group":"2023-06-20T00:00:00.000",
@@ -3012,7 +3012,7 @@
         "registrations":19,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.61
+        "conversion":83.0
     },
     {
         "date_group":"2023-06-20T00:00:00.000",
@@ -3021,7 +3021,7 @@
         "registrations":9,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":2.91
+        "conversion":3.0
     },
     {
         "date_group":"2023-06-21T00:00:00.000",
@@ -3030,7 +3030,7 @@
         "registrations":47,
         "utm_campaign":"women_in_tech_symposium",
         "cost":174.0,
-        "conversion":8.02
+        "conversion":8.0
     },
     {
         "date_group":"2023-06-21T00:00:00.000",
@@ -3039,7 +3039,7 @@
         "registrations":35,
         "utm_campaign":"women_in_tech_symposium",
         "cost":174.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-06-21T00:00:00.000",
@@ -3048,7 +3048,7 @@
         "registrations":29,
         "utm_campaign":"women_in_tech_symposium",
         "cost":174.0,
-        "conversion":80.56
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-22T00:00:00.000",
@@ -3057,7 +3057,7 @@
         "registrations":35,
         "utm_campaign":"women_in_tech_symposium",
         "cost":105.0,
-        "conversion":81.4
+        "conversion":81.0
     },
     {
         "date_group":"2023-06-22T00:00:00.000",
@@ -3066,7 +3066,7 @@
         "registrations":28,
         "utm_campaign":"women_in_tech_symposium",
         "cost":105.0,
-        "conversion":4.43
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-22T00:00:00.000",
@@ -3075,7 +3075,7 @@
         "registrations":67,
         "utm_campaign":"women_in_tech_symposium",
         "cost":105.0,
-        "conversion":81.71
+        "conversion":82.0
     },
     {
         "date_group":"2023-06-23T00:00:00.000",
@@ -3084,7 +3084,7 @@
         "registrations":63,
         "utm_campaign":"women_in_tech_symposium",
         "cost":114.0,
-        "conversion":6.41
+        "conversion":6.0
     },
     {
         "date_group":"2023-06-23T00:00:00.000",
@@ -3093,7 +3093,7 @@
         "registrations":21,
         "utm_campaign":"women_in_tech_symposium",
         "cost":114.0,
-        "conversion":58.33
+        "conversion":58.0
     },
     {
         "date_group":"2023-06-23T00:00:00.000",
@@ -3102,7 +3102,7 @@
         "registrations":83,
         "utm_campaign":"women_in_tech_symposium",
         "cost":114.0,
-        "conversion":64.34
+        "conversion":64.0
     },
     {
         "date_group":"2023-06-24T00:00:00.000",
@@ -3111,7 +3111,7 @@
         "registrations":62,
         "utm_campaign":"women_in_tech_symposium",
         "cost":109.0,
-        "conversion":65.96
+        "conversion":66.0
     },
     {
         "date_group":"2023-06-24T00:00:00.000",
@@ -3120,7 +3120,7 @@
         "registrations":8,
         "utm_campaign":"women_in_tech_symposium",
         "cost":109.0,
-        "conversion":66.67
+        "conversion":67.0
     },
     {
         "date_group":"2023-06-24T00:00:00.000",
@@ -3129,7 +3129,7 @@
         "registrations":34,
         "utm_campaign":"women_in_tech_symposium",
         "cost":109.0,
-        "conversion":4.16
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-25T00:00:00.000",
@@ -3138,7 +3138,7 @@
         "registrations":30,
         "utm_campaign":"women_in_tech_symposium",
         "cost":143.0,
-        "conversion":58.82
+        "conversion":59.0
     },
     {
         "date_group":"2023-06-25T00:00:00.000",
@@ -3147,7 +3147,7 @@
         "registrations":28,
         "utm_campaign":"women_in_tech_symposium",
         "cost":143.0,
-        "conversion":63.64
+        "conversion":64.0
     },
     {
         "date_group":"2023-06-25T00:00:00.000",
@@ -3156,7 +3156,7 @@
         "registrations":78,
         "utm_campaign":"women_in_tech_symposium",
         "cost":143.0,
-        "conversion":7.75
+        "conversion":8.0
     },
     {
         "date_group":"2023-06-26T00:00:00.000",
@@ -3165,7 +3165,7 @@
         "registrations":41,
         "utm_campaign":"women_in_tech_symposium",
         "cost":289.0,
-        "conversion":65.08
+        "conversion":65.0
     },
     {
         "date_group":"2023-06-26T00:00:00.000",
@@ -3174,7 +3174,7 @@
         "registrations":31,
         "utm_campaign":"women_in_tech_symposium",
         "cost":289.0,
-        "conversion":65.96
+        "conversion":66.0
     },
     {
         "date_group":"2023-06-26T00:00:00.000",
@@ -3183,7 +3183,7 @@
         "registrations":29,
         "utm_campaign":"women_in_tech_symposium",
         "cost":289.0,
-        "conversion":4.99
+        "conversion":5.0
     },
     {
         "date_group":"2023-06-27T00:00:00.000",
@@ -3192,7 +3192,7 @@
         "registrations":51,
         "utm_campaign":"women_in_tech_symposium",
         "cost":227.0,
-        "conversion":56.04
+        "conversion":56.0
     },
     {
         "date_group":"2023-06-27T00:00:00.000",
@@ -3201,7 +3201,7 @@
         "registrations":9,
         "utm_campaign":"women_in_tech_symposium",
         "cost":227.0,
-        "conversion":47.37
+        "conversion":47.0
     },
     {
         "date_group":"2023-06-27T00:00:00.000",
@@ -3210,7 +3210,7 @@
         "registrations":25,
         "utm_campaign":"women_in_tech_symposium",
         "cost":227.0,
-        "conversion":2.42
+        "conversion":2.0
     },
     {
         "date_group":"2023-06-28T00:00:00.000",
@@ -3219,7 +3219,7 @@
         "registrations":27,
         "utm_campaign":"women_in_tech_symposium",
         "cost":117.0,
-        "conversion":61.36
+        "conversion":61.0
     },
     {
         "date_group":"2023-06-28T00:00:00.000",
@@ -3228,7 +3228,7 @@
         "registrations":25,
         "utm_campaign":"women_in_tech_symposium",
         "cost":117.0,
-        "conversion":2.45
+        "conversion":2.0
     },
     {
         "date_group":"2023-06-28T00:00:00.000",
@@ -3237,7 +3237,7 @@
         "registrations":23,
         "utm_campaign":"women_in_tech_symposium",
         "cost":117.0,
-        "conversion":54.76
+        "conversion":55.0
     },
     {
         "date_group":"2023-06-29T00:00:00.000",
@@ -3246,7 +3246,7 @@
         "registrations":61,
         "utm_campaign":"women_in_tech_symposium",
         "cost":193.0,
-        "conversion":70.11
+        "conversion":70.0
     },
     {
         "date_group":"2023-06-29T00:00:00.000",
@@ -3255,7 +3255,7 @@
         "registrations":41,
         "utm_campaign":"women_in_tech_symposium",
         "cost":193.0,
-        "conversion":62.12
+        "conversion":62.0
     },
     {
         "date_group":"2023-06-29T00:00:00.000",
@@ -3264,7 +3264,7 @@
         "registrations":18,
         "utm_campaign":"women_in_tech_symposium",
         "cost":193.0,
-        "conversion":3.67
+        "conversion":4.0
     },
     {
         "date_group":"2023-06-30T00:00:00.000",
@@ -3273,7 +3273,7 @@
         "registrations":44,
         "utm_campaign":"women_in_tech_symposium",
         "cost":102.0,
-        "conversion":72.13
+        "conversion":72.0
     },
     {
         "date_group":"2023-06-30T00:00:00.000",
@@ -3282,7 +3282,7 @@
         "registrations":23,
         "utm_campaign":"women_in_tech_symposium",
         "cost":102.0,
-        "conversion":67.65
+        "conversion":68.0
     },
     {
         "date_group":"2023-06-30T00:00:00.000",
@@ -3291,7 +3291,7 @@
         "registrations":33,
         "utm_campaign":"women_in_tech_symposium",
         "cost":102.0,
-        "conversion":3.33
+        "conversion":3.0
     },
     {
         "date_group":"2023-07-01T00:00:00.000",
@@ -3300,7 +3300,7 @@
         "registrations":10,
         "utm_campaign":"women_in_tech_symposium",
         "cost":200.0,
-        "conversion":58.82
+        "conversion":59.0
     },
     {
         "date_group":"2023-07-01T00:00:00.000",
@@ -3309,7 +3309,7 @@
         "registrations":65,
         "utm_campaign":"women_in_tech_symposium",
         "cost":200.0,
-        "conversion":58.56
+        "conversion":59.0
     },
     {
         "date_group":"2023-07-01T00:00:00.000",
@@ -3318,7 +3318,7 @@
         "registrations":57,
         "utm_campaign":"women_in_tech_symposium",
         "cost":200.0,
-        "conversion":6.93
+        "conversion":7.0
     },
     {
         "date_group":"2023-07-02T00:00:00.000",
@@ -3327,7 +3327,7 @@
         "registrations":70,
         "utm_campaign":"women_in_tech_symposium",
         "cost":178.0,
-        "conversion":68.63
+        "conversion":69.0
     },
     {
         "date_group":"2023-07-02T00:00:00.000",
@@ -3336,7 +3336,7 @@
         "registrations":22,
         "utm_campaign":"women_in_tech_symposium",
         "cost":178.0,
-        "conversion":66.67
+        "conversion":67.0
     },
     {
         "date_group":"2023-07-02T00:00:00.000",
@@ -3345,7 +3345,7 @@
         "registrations":32,
         "utm_campaign":"women_in_tech_symposium",
         "cost":178.0,
-        "conversion":4.07
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-03T00:00:00.000",
@@ -3354,7 +3354,7 @@
         "registrations":19,
         "utm_campaign":"women_in_tech_symposium",
         "cost":268.0,
-        "conversion":70.37
+        "conversion":70.0
     },
     {
         "date_group":"2023-07-03T00:00:00.000",
@@ -3363,7 +3363,7 @@
         "registrations":36,
         "utm_campaign":"women_in_tech_symposium",
         "cost":268.0,
-        "conversion":4.43
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-03T00:00:00.000",
@@ -3372,7 +3372,7 @@
         "registrations":71,
         "utm_campaign":"women_in_tech_symposium",
         "cost":268.0,
-        "conversion":73.2
+        "conversion":73.0
     },
     {
         "date_group":"2023-07-04T00:00:00.000",
@@ -3381,7 +3381,7 @@
         "registrations":18,
         "utm_campaign":"women_in_tech_symposium",
         "cost":266.0,
-        "conversion":56.25
+        "conversion":56.0
     },
     {
         "date_group":"2023-07-04T00:00:00.000",
@@ -3390,7 +3390,7 @@
         "registrations":21,
         "utm_campaign":"women_in_tech_symposium",
         "cost":266.0,
-        "conversion":2.31
+        "conversion":2.0
     },
     {
         "date_group":"2023-07-04T00:00:00.000",
@@ -3399,7 +3399,7 @@
         "registrations":69,
         "utm_campaign":"women_in_tech_symposium",
         "cost":266.0,
-        "conversion":75.82
+        "conversion":76.0
     },
     {
         "date_group":"2023-07-05T00:00:00.000",
@@ -3408,7 +3408,7 @@
         "registrations":52,
         "utm_campaign":"women_in_tech_symposium",
         "cost":261.0,
-        "conversion":66.67
+        "conversion":67.0
     },
     {
         "date_group":"2023-07-05T00:00:00.000",
@@ -3417,7 +3417,7 @@
         "registrations":22,
         "utm_campaign":"women_in_tech_symposium",
         "cost":261.0,
-        "conversion":61.11
+        "conversion":61.0
     },
     {
         "date_group":"2023-07-05T00:00:00.000",
@@ -3426,7 +3426,7 @@
         "registrations":30,
         "utm_campaign":"women_in_tech_symposium",
         "cost":261.0,
-        "conversion":6.93
+        "conversion":7.0
     },
     {
         "date_group":"2023-07-06T00:00:00.000",
@@ -3435,7 +3435,7 @@
         "registrations":69,
         "utm_campaign":"women_in_tech_symposium",
         "cost":252.0,
-        "conversion":61.61
+        "conversion":62.0
     },
     {
         "date_group":"2023-07-06T00:00:00.000",
@@ -3444,7 +3444,7 @@
         "registrations":15,
         "utm_campaign":"women_in_tech_symposium",
         "cost":252.0,
-        "conversion":51.72
+        "conversion":52.0
     },
     {
         "date_group":"2023-07-06T00:00:00.000",
@@ -3453,7 +3453,7 @@
         "registrations":30,
         "utm_campaign":"women_in_tech_symposium",
         "cost":252.0,
-        "conversion":3.98
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-07T00:00:00.000",
@@ -3462,7 +3462,7 @@
         "registrations":74,
         "utm_campaign":"women_in_tech_symposium",
         "cost":243.0,
-        "conversion":8.02
+        "conversion":8.0
     },
     {
         "date_group":"2023-07-07T00:00:00.000",
@@ -3471,7 +3471,7 @@
         "registrations":15,
         "utm_campaign":"women_in_tech_symposium",
         "cost":243.0,
-        "conversion":57.69
+        "conversion":58.0
     },
     {
         "date_group":"2023-07-07T00:00:00.000",
@@ -3480,7 +3480,7 @@
         "registrations":61,
         "utm_campaign":"women_in_tech_symposium",
         "cost":243.0,
-        "conversion":63.54
+        "conversion":64.0
     },
     {
         "date_group":"2023-07-08T00:00:00.000",
@@ -3489,7 +3489,7 @@
         "registrations":63,
         "utm_campaign":"women_in_tech_symposium",
         "cost":171.0,
-        "conversion":67.74
+        "conversion":68.0
     },
     {
         "date_group":"2023-07-08T00:00:00.000",
@@ -3498,7 +3498,7 @@
         "registrations":18,
         "utm_campaign":"women_in_tech_symposium",
         "cost":171.0,
-        "conversion":58.06
+        "conversion":58.0
     },
     {
         "date_group":"2023-07-08T00:00:00.000",
@@ -3507,7 +3507,7 @@
         "registrations":38,
         "utm_campaign":"women_in_tech_symposium",
         "cost":171.0,
-        "conversion":5.86
+        "conversion":6.0
     },
     {
         "date_group":"2023-07-09T00:00:00.000",
@@ -3516,7 +3516,7 @@
         "registrations":76,
         "utm_campaign":"women_in_tech_symposium",
         "cost":197.0,
-        "conversion":62.81
+        "conversion":63.0
     },
     {
         "date_group":"2023-07-09T00:00:00.000",
@@ -3525,7 +3525,7 @@
         "registrations":22,
         "utm_campaign":"women_in_tech_symposium",
         "cost":197.0,
-        "conversion":68.75
+        "conversion":69.0
     },
     {
         "date_group":"2023-07-09T00:00:00.000",
@@ -3534,7 +3534,7 @@
         "registrations":44,
         "utm_campaign":"women_in_tech_symposium",
         "cost":197.0,
-        "conversion":4.36
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-10T00:00:00.000",
@@ -3543,7 +3543,7 @@
         "registrations":35,
         "utm_campaign":"women_in_tech_symposium",
         "cost":235.0,
-        "conversion":7.11
+        "conversion":7.0
     },
     {
         "date_group":"2023-07-10T00:00:00.000",
@@ -3552,7 +3552,7 @@
         "registrations":20,
         "utm_campaign":"women_in_tech_symposium",
         "cost":235.0,
-        "conversion":58.82
+        "conversion":59.0
     },
     {
         "date_group":"2023-07-10T00:00:00.000",
@@ -3561,7 +3561,7 @@
         "registrations":66,
         "utm_campaign":"women_in_tech_symposium",
         "cost":235.0,
-        "conversion":61.11
+        "conversion":61.0
     },
     {
         "date_group":"2023-07-11T00:00:00.000",
@@ -3570,7 +3570,7 @@
         "registrations":76,
         "utm_campaign":"women_in_tech_symposium",
         "cost":277.0,
-        "conversion":63.87
+        "conversion":64.0
     },
     {
         "date_group":"2023-07-11T00:00:00.000",
@@ -3588,7 +3588,7 @@
         "registrations":27,
         "utm_campaign":"women_in_tech_symposium",
         "cost":277.0,
-        "conversion":5.25
+        "conversion":5.0
     },
     {
         "date_group":"2023-07-12T00:00:00.000",
@@ -3597,7 +3597,7 @@
         "registrations":61,
         "utm_campaign":"women_in_tech_symposium",
         "cost":285.0,
-        "conversion":65.59
+        "conversion":66.0
     },
     {
         "date_group":"2023-07-12T00:00:00.000",
@@ -3606,7 +3606,7 @@
         "registrations":48,
         "utm_campaign":"women_in_tech_symposium",
         "cost":285.0,
-        "conversion":65.75
+        "conversion":66.0
     },
     {
         "date_group":"2023-07-12T00:00:00.000",
@@ -3615,7 +3615,7 @@
         "registrations":34,
         "utm_campaign":"women_in_tech_symposium",
         "cost":285.0,
-        "conversion":4.6
+        "conversion":5.0
     },
     {
         "date_group":"2023-07-13T00:00:00.000",
@@ -3624,7 +3624,7 @@
         "registrations":98,
         "utm_campaign":"women_in_tech_symposium",
         "cost":171.0,
-        "conversion":63.64
+        "conversion":64.0
     },
     {
         "date_group":"2023-07-13T00:00:00.000",
@@ -3633,7 +3633,7 @@
         "registrations":28,
         "utm_campaign":"women_in_tech_symposium",
         "cost":171.0,
-        "conversion":57.14
+        "conversion":57.0
     },
     {
         "date_group":"2023-07-13T00:00:00.000",
@@ -3642,7 +3642,7 @@
         "registrations":16,
         "utm_campaign":"women_in_tech_symposium",
         "cost":171.0,
-        "conversion":2.96
+        "conversion":3.0
     },
     {
         "date_group":"2023-07-14T00:00:00.000",
@@ -3651,7 +3651,7 @@
         "registrations":41,
         "utm_campaign":"women_in_tech_symposium",
         "cost":157.0,
-        "conversion":4.04
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-14T00:00:00.000",
@@ -3660,7 +3660,7 @@
         "registrations":35,
         "utm_campaign":"women_in_tech_symposium",
         "cost":157.0,
-        "conversion":59.32
+        "conversion":59.0
     },
     {
         "date_group":"2023-07-14T00:00:00.000",
@@ -3669,7 +3669,7 @@
         "registrations":21,
         "utm_campaign":"women_in_tech_symposium",
         "cost":157.0,
-        "conversion":67.74
+        "conversion":68.0
     },
     {
         "date_group":"2023-07-15T00:00:00.000",
@@ -3678,7 +3678,7 @@
         "registrations":14,
         "utm_campaign":"women_in_tech_symposium",
         "cost":103.0,
-        "conversion":58.33
+        "conversion":58.0
     },
     {
         "date_group":"2023-07-15T00:00:00.000",
@@ -3687,7 +3687,7 @@
         "registrations":29,
         "utm_campaign":"women_in_tech_symposium",
         "cost":103.0,
-        "conversion":4.35
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-15T00:00:00.000",
@@ -3696,7 +3696,7 @@
         "registrations":54,
         "utm_campaign":"women_in_tech_symposium",
         "cost":103.0,
-        "conversion":65.06
+        "conversion":65.0
     },
     {
         "date_group":"2023-07-16T00:00:00.000",
@@ -3705,7 +3705,7 @@
         "registrations":39,
         "utm_campaign":"women_in_tech_symposium",
         "cost":118.0,
-        "conversion":7.94
+        "conversion":8.0
     },
     {
         "date_group":"2023-07-16T00:00:00.000",
@@ -3714,7 +3714,7 @@
         "registrations":72,
         "utm_campaign":"women_in_tech_symposium",
         "cost":118.0,
-        "conversion":67.29
+        "conversion":67.0
     },
     {
         "date_group":"2023-07-16T00:00:00.000",
@@ -3732,7 +3732,7 @@
         "registrations":40,
         "utm_campaign":"women_in_tech_symposium",
         "cost":159.0,
-        "conversion":72.73
+        "conversion":73.0
     },
     {
         "date_group":"2023-07-17T00:00:00.000",
@@ -3750,7 +3750,7 @@
         "registrations":36,
         "utm_campaign":"women_in_tech_symposium",
         "cost":159.0,
-        "conversion":4.43
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-18T00:00:00.000",
@@ -3759,7 +3759,7 @@
         "registrations":54,
         "utm_campaign":"women_in_tech_symposium",
         "cost":167.0,
-        "conversion":69.23
+        "conversion":69.0
     },
     {
         "date_group":"2023-07-18T00:00:00.000",
@@ -3777,7 +3777,7 @@
         "registrations":15,
         "utm_campaign":"women_in_tech_symposium",
         "cost":167.0,
-        "conversion":2.94
+        "conversion":3.0
     },
     {
         "date_group":"2023-07-19T00:00:00.000",
@@ -3786,7 +3786,7 @@
         "registrations":24,
         "utm_campaign":"women_in_tech_symposium",
         "cost":157.0,
-        "conversion":68.57
+        "conversion":69.0
     },
     {
         "date_group":"2023-07-19T00:00:00.000",
@@ -3795,7 +3795,7 @@
         "registrations":21,
         "utm_campaign":"women_in_tech_symposium",
         "cost":157.0,
-        "conversion":63.64
+        "conversion":64.0
     },
     {
         "date_group":"2023-07-19T00:00:00.000",
@@ -3804,7 +3804,7 @@
         "registrations":41,
         "utm_campaign":"women_in_tech_symposium",
         "cost":157.0,
-        "conversion":4.71
+        "conversion":5.0
     },
     {
         "date_group":"2023-07-20T00:00:00.000",
@@ -3813,7 +3813,7 @@
         "registrations":81,
         "utm_campaign":"women_in_tech_symposium",
         "cost":155.0,
-        "conversion":64.8
+        "conversion":65.0
     },
     {
         "date_group":"2023-07-20T00:00:00.000",
@@ -3822,7 +3822,7 @@
         "registrations":6,
         "utm_campaign":"women_in_tech_symposium",
         "cost":155.0,
-        "conversion":46.15
+        "conversion":46.0
     },
     {
         "date_group":"2023-07-20T00:00:00.000",
@@ -3831,7 +3831,7 @@
         "registrations":12,
         "utm_campaign":"women_in_tech_symposium",
         "cost":155.0,
-        "conversion":2.25
+        "conversion":2.0
     },
     {
         "date_group":"2023-07-21T00:00:00.000",
@@ -3840,7 +3840,7 @@
         "registrations":17,
         "utm_campaign":"women_in_tech_symposium",
         "cost":131.0,
-        "conversion":62.96
+        "conversion":63.0
     },
     {
         "date_group":"2023-07-21T00:00:00.000",
@@ -3849,7 +3849,7 @@
         "registrations":33,
         "utm_campaign":"women_in_tech_symposium",
         "cost":131.0,
-        "conversion":6.68
+        "conversion":7.0
     },
     {
         "date_group":"2023-07-21T00:00:00.000",
@@ -3867,7 +3867,7 @@
         "registrations":77,
         "utm_campaign":"women_in_tech_symposium",
         "cost":261.0,
-        "conversion":64.71
+        "conversion":65.0
     },
     {
         "date_group":"2023-07-22T00:00:00.000",
@@ -3876,7 +3876,7 @@
         "registrations":12,
         "utm_campaign":"women_in_tech_symposium",
         "cost":261.0,
-        "conversion":52.17
+        "conversion":52.0
     },
     {
         "date_group":"2023-07-22T00:00:00.000",
@@ -3885,7 +3885,7 @@
         "registrations":40,
         "utm_campaign":"women_in_tech_symposium",
         "cost":261.0,
-        "conversion":7.05
+        "conversion":7.0
     },
     {
         "date_group":"2023-07-23T00:00:00.000",
@@ -3903,7 +3903,7 @@
         "registrations":14,
         "utm_campaign":"women_in_tech_symposium",
         "cost":200.0,
-        "conversion":73.68
+        "conversion":74.0
     },
     {
         "date_group":"2023-07-23T00:00:00.000",
@@ -3912,7 +3912,7 @@
         "registrations":22,
         "utm_campaign":"women_in_tech_symposium",
         "cost":200.0,
-        "conversion":3.15
+        "conversion":3.0
     },
     {
         "date_group":"2023-07-24T00:00:00.000",
@@ -3939,7 +3939,7 @@
         "registrations":25,
         "utm_campaign":"women_in_tech_symposium",
         "cost":217.0,
-        "conversion":3.65
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-25T00:00:00.000",
@@ -3948,7 +3948,7 @@
         "registrations":65,
         "utm_campaign":"women_in_tech_symposium",
         "cost":265.0,
-        "conversion":59.09
+        "conversion":59.0
     },
     {
         "date_group":"2023-07-25T00:00:00.000",
@@ -3957,7 +3957,7 @@
         "registrations":30,
         "utm_campaign":"women_in_tech_symposium",
         "cost":265.0,
-        "conversion":68.18
+        "conversion":68.0
     },
     {
         "date_group":"2023-07-25T00:00:00.000",
@@ -3966,7 +3966,7 @@
         "registrations":58,
         "utm_campaign":"women_in_tech_symposium",
         "cost":265.0,
-        "conversion":5.59
+        "conversion":6.0
     },
     {
         "date_group":"2023-07-26T00:00:00.000",
@@ -3975,7 +3975,7 @@
         "registrations":14,
         "utm_campaign":"women_in_tech_symposium",
         "cost":113.0,
-        "conversion":63.64
+        "conversion":64.0
     },
     {
         "date_group":"2023-07-26T00:00:00.000",
@@ -3984,7 +3984,7 @@
         "registrations":46,
         "utm_campaign":"women_in_tech_symposium",
         "cost":113.0,
-        "conversion":6.86
+        "conversion":7.0
     },
     {
         "date_group":"2023-07-26T00:00:00.000",
@@ -3993,7 +3993,7 @@
         "registrations":42,
         "utm_campaign":"women_in_tech_symposium",
         "cost":113.0,
-        "conversion":59.15
+        "conversion":59.0
     },
     {
         "date_group":"2023-07-27T00:00:00.000",
@@ -4011,7 +4011,7 @@
         "registrations":29,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":9.32
+        "conversion":9.0
     },
     {
         "date_group":"2023-07-27T00:00:00.000",
@@ -4020,7 +4020,7 @@
         "registrations":31,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":86.11
+        "conversion":86.0
     },
     {
         "date_group":"2023-07-28T00:00:00.000",
@@ -4029,7 +4029,7 @@
         "registrations":52,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.25
+        "conversion":81.0
     },
     {
         "date_group":"2023-07-28T00:00:00.000",
@@ -4038,7 +4038,7 @@
         "registrations":35,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-07-28T00:00:00.000",
@@ -4047,7 +4047,7 @@
         "registrations":24,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.77
+        "conversion":5.0
     },
     {
         "date_group":"2023-07-29T00:00:00.000",
@@ -4056,7 +4056,7 @@
         "registrations":36,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":85.71
+        "conversion":86.0
     },
     {
         "date_group":"2023-07-29T00:00:00.000",
@@ -4065,7 +4065,7 @@
         "registrations":6,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":85.71
+        "conversion":86.0
     },
     {
         "date_group":"2023-07-29T00:00:00.000",
@@ -4074,7 +4074,7 @@
         "registrations":49,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":9.02
+        "conversion":9.0
     },
     {
         "date_group":"2023-07-30T00:00:00.000",
@@ -4083,7 +4083,7 @@
         "registrations":21,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.11
+        "conversion":4.0
     },
     {
         "date_group":"2023-07-30T00:00:00.000",
@@ -4092,7 +4092,7 @@
         "registrations":36,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":85.71
+        "conversion":86.0
     },
     {
         "date_group":"2023-07-30T00:00:00.000",
@@ -4101,7 +4101,7 @@
         "registrations":66,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":84.62
+        "conversion":85.0
     },
     {
         "date_group":"2023-07-31T00:00:00.000",
@@ -4110,7 +4110,7 @@
         "registrations":62,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.67
+        "conversion":83.0
     },
     {
         "date_group":"2023-07-31T00:00:00.000",
@@ -4128,7 +4128,7 @@
         "registrations":32,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":6.34
+        "conversion":6.0
     },
     {
         "date_group":"2023-08-01T00:00:00.000",
@@ -4137,7 +4137,7 @@
         "registrations":64,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":83.12
+        "conversion":83.0
     },
     {
         "date_group":"2023-08-01T00:00:00.000",
@@ -4146,7 +4146,7 @@
         "registrations":14,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.35
+        "conversion":82.0
     },
     {
         "date_group":"2023-08-01T00:00:00.000",
@@ -4155,7 +4155,7 @@
         "registrations":29,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":8.26
+        "conversion":8.0
     },
     {
         "date_group":"2023-08-02T00:00:00.000",
@@ -4164,7 +4164,7 @@
         "registrations":48,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":6.86
+        "conversion":7.0
     },
     {
         "date_group":"2023-08-02T00:00:00.000",
@@ -4173,7 +4173,7 @@
         "registrations":24,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":88.89
+        "conversion":89.0
     },
     {
         "date_group":"2023-08-02T00:00:00.000",
@@ -4182,7 +4182,7 @@
         "registrations":19,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.61
+        "conversion":83.0
     },
     {
         "date_group":"2023-08-03T00:00:00.000",
@@ -4191,7 +4191,7 @@
         "registrations":39,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":84.78
+        "conversion":85.0
     },
     {
         "date_group":"2023-08-03T00:00:00.000",
@@ -4209,7 +4209,7 @@
         "registrations":16,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":3.46
+        "conversion":3.0
     },
     {
         "date_group":"2023-08-04T00:00:00.000",
@@ -4218,7 +4218,7 @@
         "registrations":22,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":81.48
+        "conversion":81.0
     },
     {
         "date_group":"2023-08-04T00:00:00.000",
@@ -4227,7 +4227,7 @@
         "registrations":15,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-08-04T00:00:00.000",
@@ -4236,7 +4236,7 @@
         "registrations":50,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":7.86
+        "conversion":8.0
     },
     {
         "date_group":"2023-08-05T00:00:00.000",
@@ -4245,7 +4245,7 @@
         "registrations":50,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":80.65
+        "conversion":81.0
     },
     {
         "date_group":"2023-08-05T00:00:00.000",
@@ -4254,7 +4254,7 @@
         "registrations":28,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":82.35
+        "conversion":82.0
     },
     {
         "date_group":"2023-08-05T00:00:00.000",
@@ -4263,7 +4263,7 @@
         "registrations":23,
         "utm_campaign":"none",
         "cost":0.0,
-        "conversion":4.85
+        "conversion":5.0
     },
     {
         "date_group":"2023-08-06T00:00:00.000",
@@ -4272,7 +4272,7 @@
         "registrations":37,
         "utm_campaign":"intro_to_python_course",
         "cost":224.0,
-        "conversion":5.6
+        "conversion":6.0
     },
     {
         "date_group":"2023-08-06T00:00:00.000",
@@ -4281,7 +4281,7 @@
         "registrations":63,
         "utm_campaign":"intro_to_python_course",
         "cost":224.0,
-        "conversion":82.89
+        "conversion":83.0
     },
     {
         "date_group":"2023-08-06T00:00:00.000",
@@ -4290,7 +4290,7 @@
         "registrations":15,
         "utm_campaign":"intro_to_python_course",
         "cost":224.0,
-        "conversion":88.24
+        "conversion":88.0
     },
     {
         "date_group":"2023-08-07T00:00:00.000",
@@ -4299,7 +4299,7 @@
         "registrations":24,
         "utm_campaign":"intro_to_python_course",
         "cost":120.0,
-        "conversion":70.59
+        "conversion":71.0
     },
     {
         "date_group":"2023-08-07T00:00:00.000",
@@ -4308,7 +4308,7 @@
         "registrations":32,
         "utm_campaign":"intro_to_python_course",
         "cost":120.0,
-        "conversion":3.85
+        "conversion":4.0
     },
     {
         "date_group":"2023-08-07T00:00:00.000",
@@ -4326,7 +4326,7 @@
         "registrations":50,
         "utm_campaign":"intro_to_python_course",
         "cost":111.0,
-        "conversion":5.63
+        "conversion":6.0
     },
     {
         "date_group":"2023-08-08T00:00:00.000",
@@ -4335,7 +4335,7 @@
         "registrations":57,
         "utm_campaign":"intro_to_python_course",
         "cost":111.0,
-        "conversion":68.67
+        "conversion":69.0
     },
     {
         "date_group":"2023-08-08T00:00:00.000",
@@ -4344,7 +4344,7 @@
         "registrations":22,
         "utm_campaign":"intro_to_python_course",
         "cost":111.0,
-        "conversion":70.97
+        "conversion":71.0
     },
     {
         "date_group":"2023-08-09T00:00:00.000",
@@ -4353,7 +4353,7 @@
         "registrations":82,
         "utm_campaign":"intro_to_python_course",
         "cost":149.0,
-        "conversion":76.64
+        "conversion":77.0
     },
     {
         "date_group":"2023-08-09T00:00:00.000",
@@ -4362,7 +4362,7 @@
         "registrations":24,
         "utm_campaign":"intro_to_python_course",
         "cost":149.0,
-        "conversion":72.73
+        "conversion":73.0
     },
     {
         "date_group":"2023-08-09T00:00:00.000",
@@ -4371,7 +4371,7 @@
         "registrations":18,
         "utm_campaign":"intro_to_python_course",
         "cost":149.0,
-        "conversion":4.27
+        "conversion":4.0
     },
     {
         "date_group":"2023-08-10T00:00:00.000",
@@ -4380,7 +4380,7 @@
         "registrations":112,
         "utm_campaign":"intro_to_python_course",
         "cost":157.0,
-        "conversion":78.87
+        "conversion":79.0
     },
     {
         "date_group":"2023-08-10T00:00:00.000",
@@ -4389,7 +4389,7 @@
         "registrations":11,
         "utm_campaign":"intro_to_python_course",
         "cost":157.0,
-        "conversion":73.33
+        "conversion":73.0
     },
     {
         "date_group":"2023-08-10T00:00:00.000",
@@ -4398,7 +4398,7 @@
         "registrations":24,
         "utm_campaign":"intro_to_python_course",
         "cost":157.0,
-        "conversion":5.02
+        "conversion":5.0
     },
     {
         "date_group":"2023-08-11T00:00:00.000",
@@ -4407,7 +4407,7 @@
         "registrations":70,
         "utm_campaign":"intro_to_python_course",
         "cost":187.0,
-        "conversion":75.27
+        "conversion":75.0
     },
     {
         "date_group":"2023-08-11T00:00:00.000",
@@ -4416,7 +4416,7 @@
         "registrations":10,
         "utm_campaign":"intro_to_python_course",
         "cost":187.0,
-        "conversion":71.43
+        "conversion":71.0
     },
     {
         "date_group":"2023-08-11T00:00:00.000",
@@ -4425,7 +4425,7 @@
         "registrations":25,
         "utm_campaign":"intro_to_python_course",
         "cost":187.0,
-        "conversion":3.34
+        "conversion":3.0
     },
     {
         "date_group":"2023-08-12T00:00:00.000",
@@ -4434,7 +4434,7 @@
         "registrations":109,
         "utm_campaign":"intro_to_python_course",
         "cost":120.0,
-        "conversion":87.9
+        "conversion":88.0
     },
     {
         "date_group":"2023-08-12T00:00:00.000",
@@ -4443,7 +4443,7 @@
         "registrations":21,
         "utm_campaign":"intro_to_python_course",
         "cost":120.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-08-12T00:00:00.000",
@@ -4452,7 +4452,7 @@
         "registrations":19,
         "utm_campaign":"intro_to_python_course",
         "cost":120.0,
-        "conversion":3.97
+        "conversion":4.0
     },
     {
         "date_group":"2023-08-13T00:00:00.000",
@@ -4461,7 +4461,7 @@
         "registrations":24,
         "utm_campaign":"intro_to_python_course",
         "cost":250.0,
-        "conversion":70.59
+        "conversion":71.0
     },
     {
         "date_group":"2023-08-13T00:00:00.000",
@@ -4470,7 +4470,7 @@
         "registrations":34,
         "utm_campaign":"intro_to_python_course",
         "cost":250.0,
-        "conversion":4.53
+        "conversion":5.0
     },
     {
         "date_group":"2023-08-13T00:00:00.000",
@@ -4479,7 +4479,7 @@
         "registrations":34,
         "utm_campaign":"intro_to_python_course",
         "cost":250.0,
-        "conversion":69.39
+        "conversion":69.0
     },
     {
         "date_group":"2023-08-14T00:00:00.000",
@@ -4488,7 +4488,7 @@
         "registrations":65,
         "utm_campaign":"intro_to_python_course",
         "cost":297.0,
-        "conversion":67.71
+        "conversion":68.0
     },
     {
         "date_group":"2023-08-14T00:00:00.000",
@@ -4497,7 +4497,7 @@
         "registrations":15,
         "utm_campaign":"intro_to_python_course",
         "cost":297.0,
-        "conversion":83.33
+        "conversion":83.0
     },
     {
         "date_group":"2023-08-14T00:00:00.000",
@@ -4506,7 +4506,7 @@
         "registrations":60,
         "utm_campaign":"intro_to_python_course",
         "cost":297.0,
-        "conversion":8.73
+        "conversion":9.0
     },
     {
         "date_group":"2023-08-15T00:00:00.000",
@@ -4515,7 +4515,7 @@
         "registrations":93,
         "utm_campaign":"intro_to_python_course",
         "cost":276.0,
-        "conversion":66.91
+        "conversion":67.0
     },
     {
         "date_group":"2023-08-15T00:00:00.000",
@@ -4524,7 +4524,7 @@
         "registrations":23,
         "utm_campaign":"intro_to_python_course",
         "cost":276.0,
-        "conversion":76.67
+        "conversion":77.0
     },
     {
         "date_group":"2023-08-15T00:00:00.000",
@@ -4533,7 +4533,7 @@
         "registrations":43,
         "utm_campaign":"intro_to_python_course",
         "cost":276.0,
-        "conversion":4.45
+        "conversion":4.0
     },
     {
         "date_group":"2023-08-16T00:00:00.000",
@@ -4542,7 +4542,7 @@
         "registrations":30,
         "utm_campaign":"intro_to_python_course",
         "cost":108.0,
-        "conversion":78.95
+        "conversion":79.0
     },
     {
         "date_group":"2023-08-16T00:00:00.000",
@@ -4551,7 +4551,7 @@
         "registrations":27,
         "utm_campaign":"intro_to_python_course",
         "cost":108.0,
-        "conversion":69.23
+        "conversion":69.0
     },
     {
         "date_group":"2023-08-16T00:00:00.000",
@@ -4560,7 +4560,7 @@
         "registrations":18,
         "utm_campaign":"intro_to_python_course",
         "cost":108.0,
-        "conversion":4.57
+        "conversion":5.0
     },
     {
         "date_group":"2023-08-17T00:00:00.000",
@@ -4569,7 +4569,7 @@
         "registrations":39,
         "utm_campaign":"intro_to_python_course",
         "cost":271.0,
-        "conversion":86.67
+        "conversion":87.0
     },
     {
         "date_group":"2023-08-17T00:00:00.000",
@@ -4578,7 +4578,7 @@
         "registrations":28,
         "utm_campaign":"intro_to_python_course",
         "cost":271.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-08-17T00:00:00.000",
@@ -4587,7 +4587,7 @@
         "registrations":62,
         "utm_campaign":"intro_to_python_course",
         "cost":271.0,
-        "conversion":7.37
+        "conversion":7.0
     },
     {
         "date_group":"2023-08-18T00:00:00.000",
@@ -4596,7 +4596,7 @@
         "registrations":28,
         "utm_campaign":"intro_to_python_course",
         "cost":169.0,
-        "conversion":77.78
+        "conversion":78.0
     },
     {
         "date_group":"2023-08-18T00:00:00.000",
@@ -4605,7 +4605,7 @@
         "registrations":50,
         "utm_campaign":"intro_to_python_course",
         "cost":169.0,
-        "conversion":5.35
+        "conversion":5.0
     },
     {
         "date_group":"2023-08-18T00:00:00.000",
@@ -4614,7 +4614,7 @@
         "registrations":27,
         "utm_campaign":"intro_to_python_course",
         "cost":169.0,
-        "conversion":61.36
+        "conversion":61.0
     },
     {
         "date_group":"2023-08-19T00:00:00.000",
@@ -4623,7 +4623,7 @@
         "registrations":30,
         "utm_campaign":"intro_to_python_course",
         "cost":196.0,
-        "conversion":2.83
+        "conversion":3.0
     },
     {
         "date_group":"2023-08-19T00:00:00.000",
@@ -4632,7 +4632,7 @@
         "registrations":57,
         "utm_campaign":"intro_to_python_course",
         "cost":196.0,
-        "conversion":83.82
+        "conversion":84.0
     },
     {
         "date_group":"2023-08-19T00:00:00.000",
@@ -4641,7 +4641,7 @@
         "registrations":23,
         "utm_campaign":"intro_to_python_course",
         "cost":196.0,
-        "conversion":71.88
+        "conversion":72.0
     },
     {
         "date_group":"2023-08-20T00:00:00.000",
@@ -4659,7 +4659,7 @@
         "registrations":16,
         "utm_campaign":"intro_to_python_course",
         "cost":272.0,
-        "conversion":76.19
+        "conversion":76.0
     },
     {
         "date_group":"2023-08-20T00:00:00.000",
@@ -4668,7 +4668,7 @@
         "registrations":35,
         "utm_campaign":"intro_to_python_course",
         "cost":272.0,
-        "conversion":6.59
+        "conversion":7.0
     },
     {
         "date_group":"2023-08-21T00:00:00.000",
@@ -4677,7 +4677,7 @@
         "registrations":85,
         "utm_campaign":"intro_to_python_course",
         "cost":137.0,
-        "conversion":65.89
+        "conversion":66.0
     },
     {
         "date_group":"2023-08-21T00:00:00.000",
@@ -4686,7 +4686,7 @@
         "registrations":22,
         "utm_campaign":"intro_to_python_course",
         "cost":137.0,
-        "conversion":73.33
+        "conversion":73.0
     },
     {
         "date_group":"2023-08-21T00:00:00.000",
@@ -4695,7 +4695,7 @@
         "registrations":33,
         "utm_campaign":"intro_to_python_course",
         "cost":137.0,
-        "conversion":3.53
+        "conversion":4.0
     },
     {
         "date_group":"2023-08-22T00:00:00.000",
@@ -4704,7 +4704,7 @@
         "registrations":38,
         "utm_campaign":"intro_to_python_course",
         "cost":173.0,
-        "conversion":66.67
+        "conversion":67.0
     },
     {
         "date_group":"2023-08-22T00:00:00.000",
@@ -4713,7 +4713,7 @@
         "registrations":29,
         "utm_campaign":"intro_to_python_course",
         "cost":173.0,
-        "conversion":78.38
+        "conversion":78.0
     },
     {
         "date_group":"2023-08-22T00:00:00.000",
@@ -4722,7 +4722,7 @@
         "registrations":74,
         "utm_campaign":"intro_to_python_course",
         "cost":173.0,
-        "conversion":7.75
+        "conversion":8.0
     },
     {
         "date_group":"2023-08-23T00:00:00.000",
@@ -4731,7 +4731,7 @@
         "registrations":68,
         "utm_campaign":"intro_to_python_course",
         "cost":101.0,
-        "conversion":7.86
+        "conversion":8.0
     },
     {
         "date_group":"2023-08-23T00:00:00.000",
@@ -4740,7 +4740,7 @@
         "registrations":47,
         "utm_campaign":"intro_to_python_course",
         "cost":101.0,
-        "conversion":67.14
+        "conversion":67.0
     },
     {
         "date_group":"2023-08-23T00:00:00.000",
@@ -4749,7 +4749,7 @@
         "registrations":29,
         "utm_campaign":"intro_to_python_course",
         "cost":101.0,
-        "conversion":76.32
+        "conversion":76.0
     },
     {
         "date_group":"2023-08-24T00:00:00.000",
@@ -4758,7 +4758,7 @@
         "registrations":36,
         "utm_campaign":"intro_to_python_course",
         "cost":105.0,
-        "conversion":7.61
+        "conversion":8.0
     },
     {
         "date_group":"2023-08-24T00:00:00.000",
@@ -4767,7 +4767,7 @@
         "registrations":67,
         "utm_campaign":"intro_to_python_course",
         "cost":105.0,
-        "conversion":65.05
+        "conversion":65.0
     },
     {
         "date_group":"2023-08-24T00:00:00.000",
@@ -4776,7 +4776,7 @@
         "registrations":43,
         "utm_campaign":"intro_to_python_course",
         "cost":105.0,
-        "conversion":79.63
+        "conversion":80.0
     },
     {
         "date_group":"2023-08-25T00:00:00.000",
@@ -4785,7 +4785,7 @@
         "registrations":62,
         "utm_campaign":"intro_to_python_course",
         "cost":206.0,
-        "conversion":78.48
+        "conversion":78.0
     },
     {
         "date_group":"2023-08-25T00:00:00.000",
@@ -4794,7 +4794,7 @@
         "registrations":25,
         "utm_campaign":"intro_to_python_course",
         "cost":206.0,
-        "conversion":69.44
+        "conversion":69.0
     },
     {
         "date_group":"2023-08-25T00:00:00.000",
@@ -4803,7 +4803,7 @@
         "registrations":62,
         "utm_campaign":"intro_to_python_course",
         "cost":206.0,
-        "conversion":7.03
+        "conversion":7.0
     },
     {
         "date_group":"2023-08-26T00:00:00.000",
@@ -4812,7 +4812,7 @@
         "registrations":114,
         "utm_campaign":"intro_to_python_course",
         "cost":102.0,
-        "conversion":77.55
+        "conversion":78.0
     },
     {
         "date_group":"2023-08-26T00:00:00.000",
@@ -4821,7 +4821,7 @@
         "registrations":41,
         "utm_campaign":"intro_to_python_course",
         "cost":102.0,
-        "conversion":68.33
+        "conversion":68.0
     },
     {
         "date_group":"2023-08-26T00:00:00.000",
@@ -4830,7 +4830,7 @@
         "registrations":30,
         "utm_campaign":"intro_to_python_course",
         "cost":102.0,
-        "conversion":3.95
+        "conversion":4.0
     },
     {
         "date_group":"2023-08-27T00:00:00.000",
@@ -4848,7 +4848,7 @@
         "registrations":39,
         "utm_campaign":"intro_to_python_course",
         "cost":222.0,
-        "conversion":69.64
+        "conversion":70.0
     },
     {
         "date_group":"2023-08-27T00:00:00.000",
@@ -4857,7 +4857,7 @@
         "registrations":31,
         "utm_campaign":"intro_to_python_course",
         "cost":222.0,
-        "conversion":4.34
+        "conversion":4.0
     },
     {
         "date_group":"2023-08-28T00:00:00.000",
@@ -4866,7 +4866,7 @@
         "registrations":23,
         "utm_campaign":"intro_to_python_course",
         "cost":223.0,
-        "conversion":65.71
+        "conversion":66.0
     },
     {
         "date_group":"2023-08-28T00:00:00.000",
@@ -4875,7 +4875,7 @@
         "registrations":34,
         "utm_campaign":"intro_to_python_course",
         "cost":223.0,
-        "conversion":77.27
+        "conversion":77.0
     },
     {
         "date_group":"2023-08-28T00:00:00.000",
@@ -4884,7 +4884,7 @@
         "registrations":26,
         "utm_campaign":"intro_to_python_course",
         "cost":223.0,
-        "conversion":4.68
+        "conversion":5.0
     },
     {
         "date_group":"2023-08-29T00:00:00.000",
@@ -4893,7 +4893,7 @@
         "registrations":23,
         "utm_campaign":"intro_to_python_course",
         "cost":190.0,
-        "conversion":82.14
+        "conversion":82.0
     },
     {
         "date_group":"2023-08-29T00:00:00.000",
@@ -4902,7 +4902,7 @@
         "registrations":56,
         "utm_campaign":"intro_to_python_course",
         "cost":190.0,
-        "conversion":78.87
+        "conversion":79.0
     },
     {
         "date_group":"2023-08-29T00:00:00.000",
@@ -4911,7 +4911,7 @@
         "registrations":64,
         "utm_campaign":"intro_to_python_course",
         "cost":190.0,
-        "conversion":5.47
+        "conversion":5.0
     },
     {
         "date_group":"2023-08-30T00:00:00.000",
@@ -4920,7 +4920,7 @@
         "registrations":40,
         "utm_campaign":"intro_to_python_course",
         "cost":109.0,
-        "conversion":60.61
+        "conversion":61.0
     },
     {
         "date_group":"2023-08-30T00:00:00.000",
@@ -4929,7 +4929,7 @@
         "registrations":27,
         "utm_campaign":"intro_to_python_course",
         "cost":109.0,
-        "conversion":77.14
+        "conversion":77.0
     },
     {
         "date_group":"2023-08-30T00:00:00.000",
@@ -4938,7 +4938,7 @@
         "registrations":34,
         "utm_campaign":"intro_to_python_course",
         "cost":109.0,
-        "conversion":2.77
+        "conversion":3.0
     },
     {
         "date_group":"2023-08-31T00:00:00.000",
@@ -4956,7 +4956,7 @@
         "registrations":42,
         "utm_campaign":"intro_to_python_course",
         "cost":215.0,
-        "conversion":73.68
+        "conversion":74.0
     },
     {
         "date_group":"2023-08-31T00:00:00.000",
@@ -4965,6 +4965,6 @@
         "registrations":46,
         "utm_campaign":"intro_to_python_course",
         "cost":215.0,
-        "conversion":6.38
+        "conversion":6.0
     }
 ]
